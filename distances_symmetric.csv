@@ -1,0 +1,3206 @@
+City1,City2,Distance
+"Atlanta, GA","Fort Lauderdale, FL",581.0
+"Fort Lauderdale, FL","Raleigh/Durham, NC",680.0
+"Atlanta, GA","Jackson/Vicksburg, MS",341.0
+"Atlanta, GA","Richmond, VA",481.0
+"Fort Myers, FL","Minneapolis, MN",1416.0
+"Atlanta, GA","Raleigh/Durham, NC",356.0
+"Atlanta, GA","Nashville, TN",214.0
+"Atlanta, GA","Indianapolis, IN",432.0
+"Denver, CO","New York, NY",1620.0
+"Atlanta, GA","Savannah, GA",214.0
+"Atlanta, GA","Fayetteville, AR",589.0
+"Atlanta, GA","San Antonio, TX",874.0
+"Detroit, MI","Tampa, FL",983.0
+"Denver, CO","Salt Lake City, UT",391.0
+"Fort Lauderdale, FL","New York, NY",1076.0
+"Atlanta, GA","Hartford, CT",859.0
+"Atlanta, GA","Jacksonville, FL",270.0
+"Boston, MA","Fort Myers, FL",1249.0
+"Detroit, MI","Seattle, WA",1927.0
+"Atlanta, GA","Harrisburg, PA",620.0
+"Boston, MA","Miami, FL",1258.0
+"Atlanta, GA","Pittsburgh, PA",526.0
+"Atlanta, GA","Orlando, FL",404.0
+"Long Beach, CA","Salt Lake City, UT",588.0
+"Las Vegas, NV","Salt Lake City, UT",368.0
+"Atlanta, GA","Charlotte, NC",226.0
+"Atlanta, GA","Columbia, SC",192.0
+"Atlanta, GA","Newark, NJ",746.0
+"Minneapolis, MN","Newark, NJ",1008.0
+"Atlanta, GA","Buffalo, NY",712.0
+"Atlanta, GA","Cincinnati, OH",373.0
+"Atlanta, GA","Syracuse, NY",794.0
+"Minneapolis, MN","Washington, DC",908.0
+"Atlanta, GA","Philadelphia, PA",666.0
+"Hartford, CT","Minneapolis, MN",1050.0
+"Atlanta, GA","Norfolk, VA",516.0
+"New York, NY","Raleigh/Durham, NC",427.0
+"Detroit, MI","Orlando, FL",957.0
+"Los Angeles, CA","Portland, OR",834.0
+"Detroit, MI","Washington, DC",383.0
+"Boston, MA","Orlando, FL",1121.0
+"Atlanta, GA","Memphis, TN",332.0
+"Detroit, MI","Fort Lauderdale, FL",1127.0
+"Minneapolis, MN","Sioux Falls, SD",196.0
+"Atlanta, GA","Seattle, WA",2182.0
+"Atlanta, GA","Dallas/Fort Worth, TX",731.0
+"New York, NY","Orlando, FL",944.0
+"Baltimore, MD","Detroit, MI",409.0
+"Miami, FL","New York, NY",1089.0
+"Indianapolis, IN","Salt Lake City, UT",1355.0
+"Chicago, IL","Minneapolis, MN",349.0
+"Minneapolis, MN","San Juan, PR",2404.0
+"Atlanta, GA","Rochester, NY",749.0
+"Fort Myers, FL","New York, NY",1074.0
+"Dallas/Fort Worth, TX","Minneapolis, MN",852.0
+"Atlanta, GA","Louisville, KY",321.0
+"Dallas/Fort Worth, TX","Salt Lake City, UT",989.0
+"Atlanta, GA","Huntsville, AL",151.0
+"Atlanta, GA","Columbus, OH",447.0
+"Atlanta, GA","Pensacola, FL",271.0
+"Phoenix, AZ","Seattle, WA",1107.0
+"Seattle, WA","Washington, DC",2329.0
+"Atlanta, GA","Wichita, KS",782.0
+"Atlanta, GA","Houston, TX",689.0
+"Atlanta, GA","Charleston, SC",259.0
+"Atlanta, GA","Dayton, OH",432.0
+"Atlanta, GA","Portland, ME",1027.0
+"Austin, TX","Salt Lake City, UT",1086.0
+"Boston, MA","Tampa, FL",1185.0
+"Portland, OR","Salt Lake City, UT",630.0
+"Jackson, WY","Salt Lake City, UT",205.0
+"Salt Lake City, UT","Santa Ana, CA",588.0
+"Atlanta, GA","Kansas City, MO",692.0
+"Boise, ID","Salt Lake City, UT",290.0
+"Detroit, MI","Fort Myers, FL",1084.0
+"Minneapolis, MN","Orlando, FL",1310.0
+"Minneapolis, MN","New Orleans, LA",1039.0
+"Atlanta, GA","Tulsa, OK",674.0
+"Atlanta, GA","Chicago, IL",591.0
+"Atlanta, GA","Providence, RI",903.0
+"Boston, MA","Charlotte Amalie, VI",1693.0
+"Fargo, ND","Minneapolis, MN",223.0
+"Las Vegas, NV","Los Angeles, CA",236.0
+"Detroit, MI","Los Angeles, CA",1979.0
+"Atlanta, GA","New Orleans, LA",425.0
+"Atlanta, GA","Grand Rapids, MI",640.0
+"Chicago, IL","Detroit, MI",228.0
+"Atlanta, GA","San Jose, CA",2116.0
+"Atlanta, GA","Madison, WI",707.0
+"Austin, TX","Detroit, MI",1149.0
+"New York, NY","Tampa, FL",1005.0
+"Atlanta, GA","San Juan, PR",1547.0
+"Atlanta, GA","Christiansted, VI",1638.0
+"Atlanta, GA","Charlotte Amalie, VI",1599.0
+"New York, NY","San Juan, PR",1608.0
+"Oakland, CA","Salt Lake City, UT",588.0
+"Atlanta, GA","Las Vegas, NV",1747.0
+"Minneapolis, MN","Raleigh/Durham, NC",980.0
+"Orlando, FL","Raleigh/Durham, NC",534.0
+"Denver, CO","Seattle, WA",1024.0
+"Baltimore, MD","Minneapolis, MN",936.0
+"Dallas/Fort Worth, TX","Detroit, MI",986.0
+"Atlanta, GA","Little Rock, AR",453.0
+"Atlanta, GA","Oklahoma City, OK",761.0
+"Atlanta, GA","Austin, TX",813.0
+"Detroit, MI","New Orleans, LA",926.0
+"Atlanta, GA","Fort Myers, FL",515.0
+"Minneapolis, MN","Phoenix, AZ",1267.0
+"Atlanta, GA","Tampa, FL",406.0
+"Atlanta, GA","Greensboro/High Point, NC",306.0
+"Atlanta, GA","Melbourne, FL",442.0
+"Minneapolis, MN","Philadelphia, PA",980.0
+"Atlanta, GA","Panama City, FL",240.0
+"Detroit, MI","Newark, NJ",488.0
+"Boise, ID","Minneapolis, MN",1142.0
+"Atlanta, GA","Daytona Beach, FL",366.0
+"Atlanta, GA","Sarasota/Bradenton, FL",444.0
+"Atlanta, GA","Washington, DC",547.0
+"Atlanta, GA","Birmingham, AL",134.0
+"Detroit, MI","Salt Lake City, UT",1481.0
+"Salt Lake City, UT","San Diego, CA",626.0
+"Boston, MA","Cincinnati, OH",752.0
+"Atlanta, GA","West Palm Beach/Palm Beach, FL",545.0
+"Fort Lauderdale, FL","Minneapolis, MN",1487.0
+"Denver, CO","Minneapolis, MN",680.0
+"Las Vegas, NV","Seattle, WA",867.0
+"Atlanta, GA","Valparaiso, FL",250.0
+"Salt Lake City, UT","San Antonio, TX",1087.0
+"Atlanta, GA","St. Louis, MO",484.0
+"New York, NY","West Palm Beach/Palm Beach, FL",1028.0
+"Detroit, MI","Houston, TX",1092.0
+"Santa Ana, CA","Seattle, WA",978.0
+"Detroit, MI","Minneapolis, MN",528.0
+"Minneapolis, MN","Tampa, FL",1306.0
+"Atlanta, GA","Cleveland, OH",554.0
+"Atlanta, GA","Key West, FL",646.0
+"Kansas City, MO","Seattle, WA",1489.0
+"Houston, TX","New York, NY",1417.0
+"Atlanta, GA","Gulfport/Biloxi, MS",352.0
+"Atlanta, GA","Myrtle Beach, SC",317.0
+"Minneapolis, MN","San Antonio, TX",1097.0
+"Salt Lake City, UT","San Jose, CA",584.0
+"Anchorage, AK","Minneapolis, MN",2519.0
+"Milwaukee, WI","Salt Lake City, UT",1247.0
+"Atlanta, GA","Minneapolis, MN",907.0
+"Raleigh/Durham, NC","Tampa, FL",587.0
+"Detroit, MI","Raleigh/Durham, NC",501.0
+"Atlanta, GA","Miami, FL",594.0
+"Ontario, CA","Salt Lake City, UT",558.0
+"Kansas City, MO","Minneapolis, MN",393.0
+"Atlanta, GA","Tallahassee, FL",223.0
+"Miami, FL","Raleigh/Durham, NC",700.0
+"Atlanta, GA","Omaha, NE",821.0
+"Detroit, MI","San Francisco, CA",2079.0
+"Cincinnati, OH","Fort Lauderdale, FL",932.0
+"Detroit, MI","Milwaukee, WI",237.0
+"Charlotte, NC","Minneapolis, MN",930.0
+"Anchorage, AK","Salt Lake City, UT",2125.0
+"Fairbanks, AK","Seattle, WA",1533.0
+"Detroit, MI","Las Vegas, NV",1749.0
+"Appleton, WI","Atlanta, GA",765.0
+"Sacramento, CA","Salt Lake City, UT",532.0
+"Atlanta, GA","Chattanooga, TN",106.0
+"Atlanta, GA","White Plains, NY",780.0
+"Detroit, MI","Hartford, CT",549.0
+"Atlanta, GA","Knoxville, TN",152.0
+"Atlanta, GA","Gainesville, FL",300.0
+"Atlanta, GA","Salt Lake City, UT",1590.0
+"Denver, CO","Detroit, MI",1123.0
+"San Francisco, CA","Seattle, WA",679.0
+"Atlanta, GA","Hayden, CO",1340.0
+"Indianapolis, IN","Minneapolis, MN",503.0
+"Atlanta, GA","San Diego, CA",1892.0
+"Charlotte, NC","Detroit, MI",500.0
+"Atlanta, GA","Baltimore, MD",577.0
+"Boston, MA","West Palm Beach/Palm Beach, FL",1197.0
+"Cincinnati, OH","Orlando, FL",757.0
+"Boston, MA","Chicago, IL",861.0
+"Bozeman, MT","Salt Lake City, UT",347.0
+"Boston, MA","New York, NY",187.0
+"Chicago, IL","Salt Lake City, UT",1259.0
+"Detroit, MI","Philadelphia, PA",453.0
+"Bozeman, MT","Minneapolis, MN",874.0
+"Kansas City, MO","Salt Lake City, UT",920.0
+"Atlanta, GA","Milwaukee, WI",669.0
+"Detroit, MI","San Antonio, TX",1214.0
+"Atlanta, GA","Sioux Falls, SD",954.0
+"Anchorage, AK","Seattle, WA",1448.0
+"Atlanta, GA","Des Moines, IA",743.0
+"Detroit, MI","Kansas City, MO",629.0
+"Detroit, MI","Jacksonville, FL",813.0
+"Salt Lake City, UT","San Francisco, CA",599.0
+"Los Angeles, CA","Seattle, WA",954.0
+"Atlanta, GA","Roanoke, VA",357.0
+"Atlanta, GA","Palm Springs, CA",1840.0
+"Atlanta, GA","Denver, CO",1199.0
+"Salt Lake City, UT","Spokane, WA",546.0
+"Miami, FL","Minneapolis, MN",1501.0
+"Phoenix, AZ","Salt Lake City, UT",507.0
+"Austin, TX","Minneapolis, MN",1042.0
+"Minneapolis, MN","St. Louis, MO",448.0
+"Kalispell, MT","Salt Lake City, UT",531.0
+"Detroit, MI","Nashville, TN",456.0
+"Atlanta, GA","Greer, SC",153.0
+"Minneapolis, MN","Sarasota/Bradenton, FL",1342.0
+"Grand Rapids, MI","Minneapolis, MN",408.0
+"Atlanta, GA","Lexington, KY",304.0
+"Minneapolis, MN","New York, NY",1029.0
+"Atlanta, GA","Baton Rouge, LA",448.0
+"Asheville, NC","Atlanta, GA",164.0
+"Milwaukee, WI","Minneapolis, MN",297.0
+"New York, NY","Seattle, WA",2422.0
+"Atlanta, GA","Burlington, VT",961.0
+"Reno, NV","Salt Lake City, UT",422.0
+"Atlanta, GA","Springfield, MO",563.0
+"Atlanta, GA","Dallas, TX",721.0
+"Houston, TX","Minneapolis, MN",1057.0
+"Portland, OR","Seattle, WA",129.0
+"Cleveland, OH","Detroit, MI",95.0
+"Los Angeles, CA","Minneapolis, MN",1535.0
+"Cincinnati, OH","Tampa, FL",773.0
+"San Diego, CA","Seattle, WA",1050.0
+"Minneapolis, MN","San Jose, CA",1575.0
+"Detroit, MI","West Palm Beach/Palm Beach, FL",1086.0
+"Albany, NY","Atlanta, GA",853.0
+"Memphis, TN","Salt Lake City, UT",1262.0
+"Nashville, TN","New York, NY",765.0
+"Minneapolis, MN","San Diego, CA",1532.0
+"Detroit, MI","St. Louis, MO",440.0
+"Madison, WI","Minneapolis, MN",228.0
+"Baltimore, MD","Salt Lake City, UT",1865.0
+"Kansas City, MO","Los Angeles, CA",1363.0
+"Minneapolis, MN","Missoula, MT",1013.0
+"Atlanta, GA","Eagle, CO",1312.0
+"New York, NY","San Francisco, CA",2586.0
+"Atlanta, GA","Honolulu, HI",4502.0
+"Atlanta, GA","Detroit, MI",594.0
+"Atlanta, GA","New York, NY",760.0
+"Atlanta, GA","Los Angeles, CA",1947.0
+"Los Angeles, CA","New York, NY",2469.0
+"New York, NY","Salt Lake City, UT",1990.0
+"Honolulu, HI","Los Angeles, CA",2556.0
+"Lihue, HI","Los Angeles, CA",2615.0
+"Atlanta, GA","Boston, MA",946.0
+"New York, NY","San Diego, CA",2446.0
+"Los Angeles, CA","Washington, DC",2288.0
+"Lihue, HI","Seattle, WA",2701.0
+"Honolulu, HI","Salt Lake City, UT",2994.0
+"Kahului, HI","Los Angeles, CA",2486.0
+"Chicago, IL","New York, NY",740.0
+"Kona, HI","Los Angeles, CA",2504.0
+"Las Vegas, NV","New York, NY",2248.0
+"Dallas/Fort Worth, TX","New York, NY",1391.0
+"Honolulu, HI","Minneapolis, MN",3972.0
+"New York, NY","Portland, OR",2454.0
+"Kahului, HI","Seattle, WA",2640.0
+"Honolulu, HI","Seattle, WA",2677.0
+"Boston, MA","Los Angeles, CA",2611.0
+"Kona, HI","Seattle, WA",2688.0
+"Las Vegas, NV","Minneapolis, MN",1299.0
+"Boston, MA","Seattle, WA",2496.0
+"Atlanta, GA","San Francisco, CA",2139.0
+"Atlanta, GA","Bozeman, MT",1640.0
+"Austin, TX","New York, NY",1521.0
+"Atlanta, GA","Phoenix, AZ",1587.0
+"Minneapolis, MN","Spokane, WA",1175.0
+"Kahului, HI","Salt Lake City, UT",2935.0
+"Boston, MA","Salt Lake City, UT",2105.0
+"Los Angeles, CA","Nashville, TN",1797.0
+"Salt Lake City, UT","Tampa, FL",1888.0
+"Orlando, FL","Seattle, WA",2554.0
+"Houston, TX","Los Angeles, CA",1390.0
+"Minneapolis, MN","Santa Ana, CA",1522.0
+"Detroit, MI","Portland, OR",1953.0
+"Boston, MA","Minneapolis, MN",1124.0
+"Raleigh/Durham, NC","Seattle, WA",2354.0
+"Atlanta, GA","Santa Ana, CA",1919.0
+"Los Angeles, CA","Salt Lake City, UT",590.0
+"Los Angeles, CA","Memphis, TN",1619.0
+"Los Angeles, CA","Orlando, FL",2218.0
+"Miami, FL","Salt Lake City, UT",2088.0
+"Orlando, FL","Salt Lake City, UT",1931.0
+"Los Angeles, CA","San Antonio, TX",1211.0
+"Boston, MA","Detroit, MI",632.0
+"Detroit, MI","Phoenix, AZ",1671.0
+"Atlanta, GA","Portland, OR",2172.0
+"Albuquerque, NM","Atlanta, GA",1269.0
+"Minneapolis, MN","San Francisco, CA",1589.0
+"Cincinnati, OH","Las Vegas, NV",1678.0
+"Minneapolis, MN","Portland, OR",1426.0
+"Dallas/Fort Worth, TX","Los Angeles, CA",1235.0
+"Atlanta, GA","Tucson, AZ",1541.0
+"Los Angeles, CA","Tampa, FL",2158.0
+"Atlanta, GA","Ontario, CA",1900.0
+"Austin, TX","Seattle, WA",1770.0
+"Fort Lauderdale, FL","Los Angeles, CA",2343.0
+"Nashville, TN","Salt Lake City, UT",1404.0
+"Minneapolis, MN","Seattle, WA",1399.0
+"Salt Lake City, UT","Washington, DC",1828.0
+"Atlanta, GA","El Paso, TX",1282.0
+"Los Angeles, CA","Raleigh/Durham, NC",2239.0
+"Detroit, MI","New York, NY",509.0
+"Atlanta, GA","Sacramento, CA",2092.0
+"Atlanta, GA","Jackson, WY",1572.0
+"Salt Lake City, UT","Seattle, WA",689.0
+"New York, NY","Phoenix, AZ",2149.0
+"Cincinnati, OH","Salt Lake City, UT",1450.0
+"Boston, MA","Las Vegas, NV",2381.0
+"Cincinnati, OH","Denver, CO",1069.0
+"Atlanta, GA","Boise, ID",1838.0
+"Las Vegas, NV","Raleigh/Durham, NC",2026.0
+"Chicago, IL","Seattle, WA",1733.0
+"Minneapolis, MN","Sacramento, CA",1517.0
+"Philadelphia, PA","Salt Lake City, UT",1927.0
+"Minneapolis, MN","Salt Lake City, UT",991.0
+"Cincinnati, OH","Los Angeles, CA",1900.0
+"Cincinnati, OH","Seattle, WA",1965.0
+"Fort Lauderdale, FL","Salt Lake City, UT",2084.0
+"Detroit, MI","San Diego, CA",1956.0
+"Atlanta, GA","Spokane, WA",1969.0
+"Indianapolis, IN","Los Angeles, CA",1814.0
+"Raleigh/Durham, NC","Salt Lake City, UT",1823.0
+"Newark, NJ","Salt Lake City, UT",1969.0
+"Austin, TX","Los Angeles, CA",1242.0
+"Seattle, WA","Tampa, FL",2520.0
+"Nashville, TN","Seattle, WA",1978.0
+"Charlotte, NC","Salt Lake City, UT",1727.0
+"New Orleans, LA","Salt Lake City, UT",1428.0
+"Los Angeles, CA","New Orleans, LA",1670.0
+"Houston, TX","Salt Lake City, UT",1214.0
+"Detroit, MI","Portland, ME",668.0
+"Salt Lake City, UT","St. Louis, MO",1156.0
+"Minneapolis, MN","Nashville, TN",695.0
+"Detroit, MI","Miami, FL",1145.0
+"Minneapolis, MN","Palm Springs, CA",1454.0
+"Detroit, MI","Sarasota/Bradenton, FL",1022.0
+"Boston, MA","Fort Lauderdale, FL",1237.0
+"New Orleans, LA","New York, NY",1183.0
+"Palm Springs, CA","Seattle, WA",987.0
+"Buffalo, NY","Detroit, MI",241.0
+"Atlanta, GA","Green Bay, WI",774.0
+"Seattle, WA","Tucson, AZ",1216.0
+"Cincinnati, OH","Fort Myers, FL",879.0
+"Boston, MA","Dallas/Fort Worth, TX",1562.0
+"Austin, TX","Boston, MA",1698.0
+"Dallas/Fort Worth, TX","Fargo, ND",968.0
+"New York, NY","Sarasota/Bradenton, FL",1041.0
+"Detroit, MI","Myrtle Beach, SC",636.0
+"Charlotte Amalie, VI","New York, NY",1623.0
+"Boston, MA","San Francisco, CA",2704.0
+"Atlanta, GA","Montrose/Delta, CO",1352.0
+"Detroit, MI","Grand Rapids, MI",120.0
+"Detroit, MI","Providence, RI",615.0
+"Minneapolis, MN","West Palm Beach/Palm Beach, FL",1451.0
+"Minneapolis, MN","Tucson, AZ",1298.0
+"Hayden, CO","Minneapolis, MN",774.0
+"Jackson, WY","Minneapolis, MN",872.0
+"Charleston, SC","Detroit, MI",667.0
+"Atlanta, GA","Reno, NV",1993.0
+"Atlanta, GA","Fayetteville, NC",331.0
+"Kalispell, MT","Minneapolis, MN",1026.0
+"Billings, MT","Salt Lake City, UT",387.0
+"Seattle, WA","Spokane, WA",224.0
+"Denver, CO","Los Angeles, CA",862.0
+"Cleveland, OH","Salt Lake City, UT",1565.0
+"Billings, MT","Minneapolis, MN",748.0
+"Los Angeles, CA","San Francisco, CA",337.0
+"Anchorage, AK","Atlanta, GA",3417.0
+"Detroit, MI","Indianapolis, IN",231.0
+"Detroit, MI","Madison, WI",311.0
+"Indianapolis, IN","Savannah, GA",596.0
+"Detroit, MI","State College, PA",301.0
+"Detroit, MI","Syracuse, NY",374.0
+"Albany, NY","Detroit, MI",489.0
+"Denver, CO","Washington, DC",1452.0
+"Denver, CO","Harlingen/San Benito, TX",1023.0
+"Denver, CO","Las Vegas, NV",628.0
+"Denver, CO","Miami, FL",1709.0
+"Austin, TX","Las Vegas, NV",1090.0
+"Austin, TX","Denver, CO",775.0
+"Denver, CO","Ontario, CA",819.0
+"Denver, CO","St. Louis, MO",770.0
+"Denver, CO","Portland, OR",991.0
+"Buffalo, NY","Orlando, FL",1011.0
+"Buffalo, NY","Fort Myers, FL",1144.0
+"Denver, CO","Fort Myers, FL",1607.0
+"Portland, ME","Tampa, FL",1277.0
+"Charlotte, NC","Philadelphia, PA",449.0
+"Charlotte, NC","Trenton, NJ",484.0
+"Las Vegas, NV","Santa Ana, CA",226.0
+"Houston, TX","Las Vegas, NV",1235.0
+"Newark, NJ","Orlando, FL",937.0
+"Milwaukee, WI","Orlando, FL",1066.0
+"Fort Myers, FL","Milwaukee, WI",1183.0
+"Fort Myers, FL","Orlando, FL",133.0
+"Orlando, FL","Syracuse, NY",1053.0
+"Fort Myers, FL","Syracuse, NY",1186.0
+"Newark, NJ","West Palm Beach/Palm Beach, FL",1023.0
+"Colorado Springs, CO","Las Vegas, NV",604.0
+"Las Vegas, NV","San Diego, CA",258.0
+"Las Vegas, NV","Philadelphia, PA",2176.0
+"Chicago, IL","San Juan, PR",2057.0
+"Grand Rapids, MI","Orlando, FL",1024.0
+"Fort Myers, FL","Grand Rapids, MI",1147.0
+"Fort Myers, FL","Islip, NY",1101.0
+"Atlanta, GA","Islip, NY",795.0
+"Charlotte Amalie, VI","Orlando, FL",1246.0
+"Newburgh/Poughkeepsie, NY","Orlando, FL",989.0
+"Orlando, FL","Providence, RI",1072.0
+"Orlando, FL","Philadelphia, PA",861.0
+"Denver, CO","Philadelphia, PA",1558.0
+"Cleveland, OH","Tampa, FL",927.0
+"Orlando, FL","Trenton, NJ",896.0
+"Trenton, NJ","West Palm Beach/Palm Beach, FL",985.0
+"Las Vegas, NV","Miami, FL",2174.0
+"Dallas/Fort Worth, TX","San Francisco, CA",1464.0
+"Denver, CO","San Francisco, CA",967.0
+"Las Vegas, NV","San Francisco, CA",414.0
+"Denver, CO","Sacramento, CA",909.0
+"Denver, CO","Phoenix, AZ",602.0
+"Denver, CO","Tampa, FL",1506.0
+"Milwaukee, WI","Tampa, FL",1075.0
+"Rochester, NY","Tampa, FL",1079.0
+"Islip, NY","West Palm Beach/Palm Beach, FL",1052.0
+"Islip, NY","Tampa, FL",1034.0
+"Grand Rapids, MI","Tampa, FL",1041.0
+"Las Vegas, NV","Tampa, FL",1984.0
+"Orlando, FL","Phoenix, AZ",1849.0
+"Dallas/Fort Worth, TX","Las Vegas, NV",1055.0
+"Dallas/Fort Worth, TX","Phoenix, AZ",868.0
+"Las Vegas, NV","Phoenix, AZ",276.0
+"Las Vegas, NV","Reno, NV",345.0
+"Las Vegas, NV","Orlando, FL",2039.0
+"Cleveland, OH","Las Vegas, NV",1824.0
+"Cleveland, OH","Fort Myers, FL",1025.0
+"Fort Myers, FL","Philadelphia, PA",993.0
+"Philadelphia, PA","West Palm Beach/Palm Beach, FL",951.0
+"Phoenix, AZ","San Francisco, CA",651.0
+"Charlotte, NC","Las Vegas, NV",1916.0
+"Denver, CO","Pensacola, FL",1179.0
+"Denver, CO","San Antonio, TX",794.0
+"Dallas/Fort Worth, TX","Denver, CO",641.0
+"Ontario, CA","San Francisco, CA",363.0
+"Las Vegas, NV","Oakland, CA",407.0
+"Orlando, FL","Rochester, NY",1033.0
+"Albany, NY","Tampa, FL",1130.0
+"Las Vegas, NV","Ontario, CA",197.0
+"Denver, CO","Oakland, CA",957.0
+"Denver, CO","San Diego, CA",853.0
+"Orlando, FL","San Juan, PR",1189.0
+"Burbank, CA","Denver, CO",850.0
+"Dallas/Fort Worth, TX","Philadelphia, PA",1303.0
+"Burbank, CA","Las Vegas, NV",223.0
+"Dallas/Fort Worth, TX","Newark, NJ",1372.0
+"Charlotte, NC","Denver, CO",1337.0
+"Denver, CO","Indianapolis, IN",977.0
+"Dallas/Fort Worth, TX","Orlando, FL",985.0
+"Cleveland, OH","Miami, FL",1080.0
+"Philadelphia, PA","Raleigh/Durham, NC",337.0
+"Raleigh/Durham, NC","San Juan, PR",1433.0
+"Baltimore, MD","Miami, FL",946.0
+"Ontario, CA","Orlando, FL",2171.0
+"Philadelphia, PA","San Juan, PR",1576.0
+"New Orleans, LA","Philadelphia, PA",1089.0
+"Atlanta, GA","Trenton, NJ",701.0
+"Miami, FL","Philadelphia, PA",1013.0
+"Miami, FL","San Juan, PR",1045.0
+"Las Vegas, NV","Sacramento, CA",397.0
+"Denver, CO","Raleigh/Durham, NC",1436.0
+"Las Vegas, NV","Portland, OR",763.0
+"Albany, NY","Orlando, FL",1073.0
+"Las Vegas, NV","St. Louis, MO",1371.0
+"Newark, NJ","San Juan, PR",1608.0
+"Baltimore, MD","Orlando, FL",787.0
+"Chicago, IL","Orlando, FL",990.0
+"Denver, CO","Orlando, FL",1546.0
+"Colorado Springs, CO","Orlando, FL",1520.0
+"Cleveland, OH","Denver, CO",1201.0
+"Cleveland, OH","Orlando, FL",895.0
+"Islip, NY","Orlando, FL",971.0
+"New Orleans, LA","Orlando, FL",551.0
+"Cleveland, OH","Phoenix, AZ",1737.0
+"Orlando, FL","San Antonio, TX",1041.0
+"Orlando, FL","St. Louis, MO",882.0
+"Denver, CO","Nashville, TN",1014.0
+"Philadelphia, PA","Sarasota/Bradenton, FL",957.0
+"Philadelphia, PA","Tampa, FL",920.0
+"Dallas/Fort Worth, TX","Ontario, CA",1188.0
+"Chicago, IL","Denver, CO",895.0
+"Oakland, CA","Phoenix, AZ",668.0
+"Phoenix, AZ","San Diego, CA",324.0
+"Columbus, OH","Orlando, FL",802.0
+"Denver, CO","Sioux Falls, SD",483.0
+"Denver, CO","Grand Junction, CO",212.0
+"Albuquerque, NM","Denver, CO",349.0
+"Newburgh/Poughkeepsie, NY","Tampa, FL",1047.0
+"Syracuse, NY","Tampa, FL",1104.0
+"Denver, CO","Memphis, TN",872.0
+"Denver, CO","Milwaukee, WI",896.0
+"Providence, RI","Tampa, FL",1136.0
+"Green Bay, WI","Tampa, FL",1180.0
+"Nashville, TN","Philadelphia, PA",675.0
+"Burbank, CA","Phoenix, AZ",369.0
+"Denver, CO","Des Moines, IA",589.0
+"Las Vegas, NV","Little Rock, AR",1294.0
+"Des Moines, IA","Las Vegas, NV",1216.0
+"Raleigh/Durham, NC","Trenton, NJ",373.0
+"Las Vegas, NV","Memphis, TN",1416.0
+"Fargo, ND","Orlando, FL",1526.0
+"Cedar Rapids/Iowa City, IA","Orlando, FL",1097.0
+"Fort Myers, FL","Trenton, NJ",1028.0
+"Chicago, IL","Fort Myers, FL",1105.0
+"Denver, CO","Madison, WI",826.0
+"Newark, NJ","Tampa, FL",997.0
+"Buffalo, NY","Tampa, FL",1053.0
+"El Paso, TX","Las Vegas, NV",583.0
+"Denver, CO","El Paso, TX",563.0
+"Fort Myers, FL","Portland, ME",1343.0
+"Orlando, FL","Portland, ME",1214.0
+"Denver, CO","Little Rock, AR",771.0
+"Denver, CO","Santa Ana, CA",846.0
+"Cincinnati, OH","Miami, FL",948.0
+"Bloomington/Normal, IL","Orlando, FL",936.0
+"Denver, CO","New Orleans, LA",1062.0
+"Denver, CO","Fresno, CA",844.0
+"Las Vegas, NV","Omaha, NE",1099.0
+"Miami, FL","Newark, NJ",1085.0
+"Miami, FL","Norfolk, VA",802.0
+"Denver, CO","Grand Rapids, MI",1015.0
+"Denver, CO","Tulsa, OK",541.0
+"Denver, CO","Oklahoma City, OK",495.0
+"Omaha, NE","Orlando, FL",1211.0
+"Fort Myers, FL","Omaha, NE",1299.0
+"Orlando, FL","Washington, DC",759.0
+"Miami, FL","Orlando, FL",192.0
+"Buffalo, NY","Miami, FL",1185.0
+"Little Rock, AR","Orlando, FL",776.0
+"Miami, FL","Rochester, NY",1203.0
+"Las Vegas, NV","Nashville, TN",1587.0
+"Las Vegas, NV","San Antonio, TX",1069.0
+"Green Bay, WI","Orlando, FL",1169.0
+"Denver, CO","Kansas City, MO",533.0
+"Memphis, TN","Orlando, FL",684.0
+"Las Vegas, NV","New Orleans, LA",1500.0
+"Dallas/Fort Worth, TX","San Diego, CA",1171.0
+"Norfolk, VA","Orlando, FL",655.0
+"Chicago, IL","Tampa, FL",1012.0
+"Tampa, FL","Trenton, NJ",955.0
+"Nashville, TN","Orlando, FL",616.0
+"Dallas/Fort Worth, TX","Nashville, TN",631.0
+"Houston, TX","Orlando, FL",849.0
+"Fayetteville, AR","Orlando, FL",932.0
+"Ontario, CA","Phoenix, AZ",325.0
+"Cedar Rapids/Iowa City, IA","Denver, CO",692.0
+"Fort Myers, FL","Indianapolis, IN",945.0
+"Las Vegas, NV","Oklahoma City, OK",986.0
+"Las Vegas, NV","Tucson, AZ",365.0
+"Miami, FL","St. Louis, MO",1068.0
+"Denver, CO","Houston, TX",883.0
+"Dallas/Fort Worth, TX","Tampa, FL",929.0
+"Denver, CO","Durango, CO",251.0
+"Durango, CO","Las Vegas, NV",418.0
+"Des Moines, IA","Orlando, FL",1141.0
+"Denver, CO","Fargo, ND",627.0
+"Harlingen/San Benito, TX","Las Vegas, NV",1236.0
+"Chicago, IL","Miami, FL",1182.0
+"Denver, CO","Omaha, NE",472.0
+"Madison, WI","Orlando, FL",1109.0
+"Burlington, VT","Orlando, FL",1194.0
+"Las Vegas, NV","Wichita, KS",986.0
+"Orlando, FL","Sioux Falls, SD",1351.0
+"Miami, FL","Portland, ME",1353.0
+"Fayetteville, AR","Las Vegas, NV",1163.0
+"Colorado Springs, CO","Phoenix, AZ",551.0
+"Miami, FL","Syracuse, NY",1217.0
+"Charlotte, NC","Orlando, FL",468.0
+"Orlando, FL","Wilmington, DE",841.0
+"Memphis, TN","Miami, FL",859.0
+"Columbus, OH","Tampa, FL",829.0
+"Harlingen/San Benito, TX","Orlando, FL",1016.0
+"Denver, CO","Knoxville, TN",1162.0
+"Huntsville, AL","Orlando, FL",535.0
+"Indianapolis, IN","Las Vegas, NV",1590.0
+"Las Vegas, NV","Spokane, WA",806.0
+"Jacksonville, FL","Philadelphia, PA",742.0
+"Jacksonville, FL","San Juan, PR",1288.0
+"Orlando, FL","Pensacola, FL",381.0
+"Las Vegas, NV","Madison, WI",1454.0
+"Harrisburg, PA","Orlando, FL",851.0
+"Indianapolis, IN","Orlando, FL",829.0
+"Louisville, KY","Orlando, FL",719.0
+"Kansas City, MO","Orlando, FL",1072.0
+"Houston, TX","Philadelphia, PA",1335.0
+"Knoxville, TN","Orlando, FL",532.0
+"Chicago, IL","Las Vegas, NV",1521.0
+"Phoenix, AZ","Sacramento, CA",647.0
+"Denver, CO","Fayetteville, AR",616.0
+"Ontario, CA","Sacramento, CA",390.0
+"Las Vegas, NV","Milwaukee, WI",1524.0
+"Hartford, CT","Orlando, FL",1050.0
+"Chicago, IL","Phoenix, AZ",1444.0
+"Fort Myers, FL","Providence, RI",1200.0
+"Miami, FL","Newburgh/Poughkeepsie, NY",1139.0
+"Dallas/Fort Worth, TX","Miami, FL",1121.0
+"Baltimore, MD","Denver, CO",1491.0
+"El Paso, TX","Orlando, FL",1516.0
+"Orlando, FL","Pittsburgh, PA",834.0
+"Knoxville, TN","Sanford, FL",511.0
+"Sarasota/Bradenton, FL","Washington, DC",851.0
+"Louisville, KY","Sarasota/Bradenton, FL",765.0
+"Flint, MI","Sanford, FL",988.0
+"Concord, NC","St. Petersburg, FL",528.0
+"Las Vegas, NV","Stockton, CA",359.0
+"Fargo, ND","Las Vegas, NV",1205.0
+"Niagara Falls, NY","Punta Gorda, FL",1129.0
+"Grand Rapids, MI","St. Petersburg, FL",1044.0
+"Evansville, IN","Sanford, FL",734.0
+"Dayton, OH","Punta Gorda, FL",904.0
+"Niagara Falls, NY","St. Petersburg, FL",1069.0
+"Peoria, IL","Phoenix, AZ",1312.0
+"St. Petersburg, FL","Wichita, KS",1087.0
+"Las Vegas, NV","Mission/McAllen/Edinburg, TX",1210.0
+"Harrisburg, PA","Punta Gorda, FL",963.0
+"Phoenix, AZ","Sioux Falls, SD",1081.0
+"Fresno, CA","Las Vegas, NV",259.0
+"Fargo, ND","Phoenix, AZ",1225.0
+"Kansas City, MO","Sanford, FL",1058.0
+"Austin, TX","Fayetteville, AR",462.0
+"Boston, MA","Grand Rapids, MI",740.0
+"St. Petersburg, FL","Toledo, OH",945.0
+"Asheville, NC","St. Petersburg, FL",519.0
+"Las Vegas, NV","Springfield, MO",1209.0
+"Allentown/Bethlehem/Easton, PA","Punta Gorda, FL",1018.0
+"Cincinnati, OH","West Palm Beach/Palm Beach, FL",892.0
+"Sioux Falls, SD","St. Petersburg, FL",1334.0
+"Eugene, OR","Las Vegas, NV",700.0
+"Hagerstown, MD","Sanford, FL",780.0
+"Columbus, OH","Punta Gorda, FL",890.0
+"Asheville, NC","Sanford, FL",465.0
+"Memphis, TN","St. Petersburg, FL",653.0
+"Cedar Rapids/Iowa City, IA","Phoenix, AZ",1252.0
+"Grand Rapids, MI","Sarasota/Bradenton, FL",1080.0
+"Cedar Rapids/Iowa City, IA","St. Petersburg, FL",1090.0
+"Punta Gorda, FL","Richmond, VA",779.0
+"Indianapolis, IN","St. Petersburg, FL",840.0
+"Phoenix, AZ","St. Cloud, MN",1259.0
+"Providence, RI","Punta Gorda, FL",1184.0
+"Greensboro/High Point, NC","Sanford, FL",510.0
+"Cincinnati, OH","Phoenix, AZ",1569.0
+"Knoxville, TN","St. Petersburg, FL",550.0
+"Bangor, ME","Sanford, FL",1299.0
+"Missoula, MT","Phoenix, AZ",948.0
+"Medford, OR","Santa Ana, CA",659.0
+"Sanford, FL","Sioux Falls, SD",1334.0
+"Bloomington/Normal, IL","Sanford, FL",917.0
+"Portsmouth, NH","Sanford, FL",1144.0
+"Allentown/Bethlehem/Easton, PA","Sanford, FL",882.0
+"Fort Wayne, IN","St. Petersburg, FL",912.0
+"Eugene, OR","Palm Springs, CA",796.0
+"Omaha, NE","Punta Gorda, FL",1269.0
+"Fort Lauderdale, FL","Harrisburg, PA",993.0
+"Los Angeles, CA","Medford, OR",630.0
+"Fort Wayne, IN","Sarasota/Bradenton, FL",948.0
+"Key West, FL","Sanford, FL",292.0
+"Albany, NY","St. Petersburg, FL",1138.0
+"Lexington, KY","Punta Gorda, FL",781.0
+"Pittsburgh, PA","Sanford, FL",809.0
+"Minneapolis, MN","Punta Gorda, FL",1386.0
+"Moline, IL","Punta Gorda, FL",1113.0
+"Jacksonville, FL","Washington, DC",634.0
+"Nashville, TN","Punta Gorda, FL",692.0
+"Cedar Rapids/Iowa City, IA","Sanford, FL",1078.0
+"Las Vegas, NV","Pasco/Kennewick/Richland, WA",732.0
+"Oklahoma City, OK","Sanford, FL",1061.0
+"Punta Gorda, FL","Raleigh/Durham, NC",645.0
+"Las Vegas, NV","Rapid City, SD",843.0
+"Peoria, IL","St. Petersburg, FL",965.0
+"Fargo, ND","St. Petersburg, FL",1519.0
+"Phoenix, AZ","Wichita, KS",870.0
+"Fort Wayne, IN","Punta Gorda, FL",986.0
+"Austin, TX","Santa Ana, CA",1209.0
+"Santa Ana, CA","Sioux Falls, SD",1326.0
+"Indianapolis, IN","Palm Springs, CA",1716.0
+"Cedar Rapids/Iowa City, IA","Nashville, TN",481.0
+"Dayton, OH","St. Petersburg, FL",831.0
+"Los Angeles, CA","Springfield, MO",1423.0
+"Rochester, NY","Sanford, FL",1009.0
+"Flint, MI","St. Petersburg, FL",1040.0
+"Punta Gorda, FL","Syracuse, NY",1164.0
+"Las Vegas, NV","Santa Maria, CA",310.0
+"Harrisburg, PA","Sarasota/Bradenton, FL",942.0
+"Eugene, OR","Santa Ana, CA",776.0
+"Bozeman, MT","Las Vegas, NV",701.0
+"Appleton, WI","Las Vegas, NV",1510.0
+"Pittsburgh, PA","Punta Gorda, FL",941.0
+"Punta Gorda, FL","Toledo, OH",1016.0
+"Nashville, TN","St. Petersburg, FL",612.0
+"Concord, NC","Punta Gorda, FL",588.0
+"Austin, TX","Indianapolis, IN",919.0
+"Phoenix, AZ","Rapid City, SD",876.0
+"Moline, IL","Phoenix, AZ",1288.0
+"Fort Lauderdale, FL","Plattsburgh, NY",1334.0
+"Asheville, NC","Fort Lauderdale, FL",661.0
+"Austin, TX","Cincinnati, OH",958.0
+"Las Vegas, NV","Shreveport, LA",1243.0
+"Houston, TX","Lexington, KY",828.0
+"Sarasota/Bradenton, FL","South Bend, IN",1009.0
+"Grand Island, NE","Las Vegas, NV",971.0
+"Nashville, TN","Sarasota/Bradenton, FL",648.0
+"Pittsburgh, PA","West Palm Beach/Palm Beach, FL",952.0
+"Los Angeles, CA","Omaha, NE",1330.0
+"Bellingham, WA","Phoenix, AZ",1208.0
+"Fort Lauderdale, FL","Greer, SC",620.0
+"Concord, NC","Fort Lauderdale, FL",643.0
+"Melbourne, FL","Pittsburgh, PA",854.0
+"Eugene, OR","Los Angeles, CA",748.0
+"Belleville, IL","Sanford, FL",835.0
+"Punta Gorda, FL","Springfield, MO",975.0
+"Punta Gorda, FL","Sioux Falls, SD",1415.0
+"Nashville, TN","Palm Springs, CA",1693.0
+"Chicago, IL","Valparaiso, FL",796.0
+"Las Vegas, NV","Missoula, MT",750.0
+"Phoenix, AZ","Rockford, IL",1373.0
+"Fort Wayne, IN","Phoenix, AZ",1546.0
+"Punta Gorda, FL","Rockford, IL",1127.0
+"Indianapolis, IN","Key West, FL",1078.0
+"Des Moines, IA","Sanford, FL",1124.0
+"Peoria, IL","Sanford, FL",949.0
+"Asheville, NC","Punta Gorda, FL",588.0
+"Austin, TX","Punta Gorda, FL",979.0
+"Cincinnati, OH","Punta Gorda, FL",850.0
+"Asheville, NC","Las Vegas, NV",1824.0
+"Harrisburg, PA","St. Petersburg, FL",912.0
+"Palm Springs, CA","Provo, UT",514.0
+"Idaho Falls, ID","Portland, OR",539.0
+"Bozeman, MT","Phoenix, AZ",861.0
+"Las Vegas, NV","Moline, IL",1376.0
+"Bismarck/Mandan, ND","Sanford, FL",1628.0
+"Belleville, IL","Punta Gorda, FL",921.0
+"Flint, MI","Phoenix, AZ",1650.0
+"Ashland, WV","Sanford, FL",665.0
+"Kalispell, MT","Phoenix, AZ",1044.0
+"Des Moines, IA","Punta Gorda, FL",1206.0
+"Asheville, NC","Minneapolis, MN",861.0
+"Moline, IL","Sanford, FL",1018.0
+"Phoenix, AZ","Santa Maria, CA",516.0
+"Grand Forks, ND","Las Vegas, NV",1230.0
+"Pasco/Kennewick/Richland, WA","Phoenix, AZ",977.0
+"Phoenix, AZ","Provo, UT",468.0
+"Columbus, OH","Fort Lauderdale, FL",973.0
+"Bismarck/Mandan, ND","Phoenix, AZ",1094.0
+"Houston, TX","Knoxville, TN",771.0
+"Bristol/Johnson City/Kingsport, TN","Sanford, FL",535.0
+"Phoenix, AZ","Tulsa, OK",935.0
+"Cincinnati, OH","Sarasota/Bradenton, FL",812.0
+"Key West, FL","Nashville, TN",849.0
+"Las Vegas, NV","Valparaiso, FL",1695.0
+"Boise, ID","Las Vegas, NV",519.0
+"Austin, TX","Sioux Falls, SD",925.0
+"Rockford, IL","St. Petersburg, FL",1049.0
+"Punta Gorda, FL","St. Cloud, MN",1447.0
+"Harrisburg, PA","Sanford, FL",827.0
+"Asheville, NC","Key West, FL",751.0
+"Grand Forks, ND","Sanford, FL",1573.0
+"Elmira/Corning, NY","St. Petersburg, FL",1035.0
+"Newburgh/Poughkeepsie, NY","Punta Gorda, FL",1101.0
+"Flint, MI","Las Vegas, NV",1733.0
+"Jacksonville, FL","Nashville, TN",483.0
+"Plattsburgh, NY","St. Petersburg, FL",1262.0
+"Grand Rapids, MI","Las Vegas, NV",1642.0
+"Flint, MI","Punta Gorda, FL",1111.0
+"Fargo, ND","Sanford, FL",1508.0
+"Las Vegas, NV","Sioux Falls, SD",1104.0
+"Ashland, WV","St. Petersburg, FL",721.0
+"Niagara Falls, NY","Sanford, FL",996.0
+"Cincinnati, OH","Sanford, FL",735.0
+"Appleton, WI","Punta Gorda, FL",1250.0
+"Omaha, NE","Sanford, FL",1195.0
+"Phoenix, AZ","Springfield, MO",1066.0
+"Chicago, IL","Punta Gorda, FL",1076.0
+"Rockford, IL","Sarasota/Bradenton, FL",1085.0
+"Indianapolis, IN","Sanford, FL",807.0
+"Las Vegas, NV","Minot, ND",1098.0
+"South Bend, IN","St. Petersburg, FL",973.0
+"Fort Wayne, IN","Sanford, FL",870.0
+"Sarasota/Bradenton, FL","Tulsa, OK",990.0
+"Sanford, FL","Wichita, KS",1117.0
+"Phoenix, AZ","Springfield, IL",1299.0
+"Concord, NC","Melbourne, FL",502.0
+"Eugene, OR","Phoenix, AZ",952.0
+"Appleton, WI","Phoenix, AZ",1452.0
+"Indianapolis, IN","West Palm Beach/Palm Beach, FL",967.0
+"Cincinnati, OH","New Orleans, LA",701.0
+"Phoenix, AZ","Santa Ana, CA",338.0
+"Memphis, TN","Sanford, FL",671.0
+"Cincinnati, OH","Key West, FL",1013.0
+"Austin, TX","Memphis, TN",559.0
+"Cedar Rapids/Iowa City, IA","Las Vegas, NV",1319.0
+"Columbus, OH","St. Petersburg, FL",821.0
+"Idaho Falls, ID","Phoenix, AZ",695.0
+"Austin, TX","Sanford, FL",994.0
+"Cincinnati, OH","Savannah, GA",515.0
+"Indianapolis, IN","Punta Gorda, FL",916.0
+"Asheville, NC","Sarasota/Bradenton, FL",554.0
+"Rockford, IL","Sanford, FL",1025.0
+"Des Moines, IA","Palm Springs, CA",1355.0
+"Las Vegas, NV","Peoria, IL",1413.0
+"Flint, MI","Sarasota/Bradenton, FL",1075.0
+"Allentown/Bethlehem/Easton, PA","Sarasota/Bradenton, FL",1000.0
+"Phoenix, AZ","Spokane, WA",1020.0
+"Newburgh/Poughkeepsie, NY","St. Petersburg, FL",1055.0
+"Minot, ND","Phoenix, AZ",1164.0
+"Belleville, IL","Sarasota/Bradenton, FL",876.0
+"Fort Lauderdale, FL","Knoxville, TN",709.0
+"Las Vegas, NV","Rockford, IL",1455.0
+"Louisville, KY","Punta Gorda, FL",806.0
+"Boise, ID","Santa Ana, CA",688.0
+"Great Falls, MT","Las Vegas, NV",811.0
+"Houston, TX","Phoenix, AZ",1009.0
+"Bellingham, WA","Las Vegas, NV",954.0
+"Roanoke, VA","St. Petersburg, FL",668.0
+"Peoria, IL","Punta Gorda, FL",1045.0
+"Jacksonville, FL","Pittsburgh, PA",694.0
+"Grand Rapids, MI","Sanford, FL",1001.0
+"Columbus, OH","Sanford, FL",767.0
+"Austin, TX","Provo, UT",1051.0
+"Belleville, IL","Phoenix, AZ",1272.0
+"Asheville, NC","Houston, TX",843.0
+"Greer, SC","St. Petersburg, FL",482.0
+"Norfolk, VA","St. Petersburg, FL",726.0
+"Asheville, NC","Newark, NJ",583.0
+"Cincinnati, OH","St. Petersburg, FL",776.0
+"Knoxville, TN","Punta Gorda, FL",624.0
+"Indianapolis, IN","Sarasota/Bradenton, FL",876.0
+"Fort Wayne, IN","Las Vegas, NV",1649.0
+"Fort Lauderdale, FL","Norfolk, VA",781.0
+"Punta Gorda, FL","Springfield, IL",994.0
+"Sanford, FL","Toledo, OH",895.0
+"Grand Junction, CO","Santa Ana, CA",641.0
+"Omaha, NE","Phoenix, AZ",1037.0
+"Des Moines, IA","Houston, TX",802.0
+"Grand Rapids, MI","Valparaiso, FL",857.0
+"Lexington, KY","Sanford, FL",667.0
+"Flint, MI","Fort Lauderdale, FL",1182.0
+"Sanford, FL","State College, PA",854.0
+"St. Petersburg, FL","Syracuse, NY",1111.0
+"Key West, FL","St. Petersburg, FL",238.0
+"Lexington, KY","St. Petersburg, FL",707.0
+"Baltimore, MD","Punta Gorda, FL",899.0
+"Cleveland, OH","Sarasota/Bradenton, FL",967.0
+"Bend/Redmond, OR","Las Vegas, NV",647.0
+"Fayetteville, AR","Punta Gorda, FL",970.0
+"Bristol/Johnson City/Kingsport, TN","St. Petersburg, FL",590.0
+"Fort Lauderdale, FL","Indianapolis, IN",1005.0
+"Bellingham, WA","Oakland, CA",764.0
+"Fort Lauderdale, FL","Memphis, TN",851.0
+"Fort Lauderdale, FL","Peoria, IL",1145.0
+"Plattsburgh, NY","Sanford, FL",1175.0
+"Fargo, ND","Nashville, TN",910.0
+"Chattanooga, TN","Sanford, FL",490.0
+"Grand Rapids, MI","Punta Gorda, FL",1118.0
+"Punta Gorda, FL","Rochester, NY",1143.0
+"Bangor, ME","St. Petersburg, FL",1394.0
+"Austin, TX","Des Moines, IA",813.0
+"Sanford, FL","Traverse City, MI",1126.0
+"Bellingham, WA","Los Angeles, CA",1047.0
+"Las Vegas, NV","Tulsa, OK",1076.0
+"Punta Gorda, FL","Traverse City, MI",1245.0
+"Boston, MA","Sarasota/Bradenton, FL",1220.0
+"Great Falls, MT","Phoenix, AZ",978.0
+"Grand Junction, CO","Las Vegas, NV",420.0
+"Boise, ID","Los Angeles, CA",674.0
+"Nashville, TN","Pittsburgh, PA",462.0
+"Las Vegas, NV","Monterey, CA",375.0
+"Grand Rapids, MI","Phoenix, AZ",1574.0
+"Ogden, UT","Phoenix, AZ",544.0
+"Little Rock, AR","Sanford, FL",765.0
+"Springfield, MO","St. Petersburg, FL",895.0
+"Allentown/Bethlehem/Easton, PA","St. Petersburg, FL",970.0
+"Nashville, TN","Richmond, VA",527.0
+"Grand Island, NE","Phoenix, AZ",905.0
+"Minneapolis, MN","Valparaiso, FL",1058.0
+"Des Moines, IA","Phoenix, AZ",1138.0
+"Pittsburgh, PA","Sarasota/Bradenton, FL",912.0
+"Amarillo, TX","Phoenix, AZ",584.0
+"Concord, NC","Sanford, FL",457.0
+"Baltimore, MD","Sarasota/Bradenton, FL",880.0
+"Appleton, WI","St. Petersburg, FL",1173.0
+"Fayetteville, AR","Fort Lauderdale, FL",1092.0
+"Sanford, FL","South Bend, IN",936.0
+"Provo, UT","St. Petersburg, FL",1857.0
+"Punta Gorda, FL","South Bend, IN",1049.0
+"Appleton, WI","Sanford, FL",1141.0
+"St. Petersburg, FL","Traverse City, MI",1172.0
+"Greer, SC","Sanford, FL",425.0
+"Laredo, TX","Las Vegas, NV",1092.0
+"Knoxville, TN","Sarasota/Bradenton, FL",586.0
+"Asheville, NC","Austin, TX",950.0
+"Las Vegas, NV","South Bend, IN",1594.0
+"Bloomington/Normal, IL","St. Petersburg, FL",936.0
+"Fayetteville, AR","Phoenix, AZ",1006.0
+"Boston, MA","Valparaiso, FL",1187.0
+"Nashville, TN","Sanford, FL",598.0
+"Knoxville, TN","Las Vegas, NV",1739.0
+"Boston, MA","Knoxville, TN",830.0
+"Fort Lauderdale, FL","Louisville, KY",895.0
+"Columbus, OH","Sarasota/Bradenton, FL",869.0
+"Belleville, IL","Valparaiso, FL",587.0
+"Fort Lauderdale, FL","Sioux Falls, SD",1526.0
+"Grand Rapids, MI","Nashville, TN",470.0
+"Austin, TX","Louisville, KY",876.0
+"Fayetteville, AR","Sanford, FL",920.0
+"Billings, MT","Phoenix, AZ",873.0
+"Newark, NJ","Valparaiso, FL",988.0
+"Eugene, OR","Oakland, CA",445.0
+"Idaho Falls, ID","Las Vegas, NV",538.0
+"Richmond, VA","St. Petersburg, FL",731.0
+"Medford, OR","Phoenix, AZ",854.0
+"Sanford, FL","Tulsa, OK",995.0
+"Kansas City, MO","Punta Gorda, FL",1126.0
+"Des Moines, IA","Nashville, TN",530.0
+"Phoenix, AZ","Pittsburgh, PA",1814.0
+"Las Vegas, NV","Medford, OR",600.0
+"Cincinnati, OH","Newark, NJ",569.0
+"Asheville, NC","Boston, MA",783.0
+"Cincinnati, OH","Valparaiso, FL",600.0
+"Newark, NJ","Savannah, GA",708.0
+"Bismarck/Mandan, ND","Las Vegas, NV",1048.0
+"Boise, ID","Phoenix, AZ",735.0
+"Fort Lauderdale, FL","Lexington, KY",865.0
+"Grand Forks, ND","Phoenix, AZ",1260.0
+"Kansas City, MO","St. Petersburg, FL",1045.0
+"Bellingham, WA","Palm Springs, CA",1078.0
+"Provo, UT","Santa Ana, CA",565.0
+"Fayetteville, AR","Houston, TX",438.0
+"Albany, NY","Sanford, FL",1049.0
+"Owensboro, KY","Sanford, FL",706.0
+"Belleville, IL","Fort Lauderdale, FL",1028.0
+"Peoria, IL","Sarasota/Bradenton, FL",1001.0
+"Cedar Rapids/Iowa City, IA","Sarasota/Bradenton, FL",1125.0
+"Louisville, KY","Sanford, FL",698.0
+"Fort Lauderdale, FL","Syracuse, NY",1197.0
+"Sarasota/Bradenton, FL","Syracuse, NY",1142.0
+"Roanoke, VA","Sanford, FL",594.0
+"Phoenix, AZ","South Bend, IN",1501.0
+"Fort Lauderdale, FL","Grand Rapids, MI",1198.0
+"Louisville, KY","St. Petersburg, FL",729.0
+"Des Moines, IA","St. Petersburg, FL",1126.0
+"Cedar Rapids/Iowa City, IA","Punta Gorda, FL",1170.0
+"Missoula, MT","Santa Ana, CA",935.0
+"Chicago, IL","Knoxville, TN",475.0
+"Albuquerque, NM","Las Vegas, NV",486.0
+"Grand Junction, CO","Phoenix, AZ",438.0
+"Cincinnati, OH","Jacksonville, FL",613.0
+"Elmira/Corning, NY","Sanford, FL",954.0
+"Amarillo, TX","Austin, TX",418.0
+"Little Rock, AR","St. Petersburg, FL",734.0
+"Asheville, NC","West Palm Beach/Palm Beach, FL",620.0
+"Santa Ana, CA","Spokane, WA",962.0
+"Elmira/Corning, NY","Punta Gorda, FL",1090.0
+"Albany, NY","Punta Gorda, FL",1185.0
+"Richmond, VA","Sanford, FL",643.0
+"Sanford, FL","Springfield, MO",914.0
+"Belleville, IL","Las Vegas, NV",1400.0
+"Billings, MT","Las Vegas, NV",754.0
+"Bozeman, MT","Nashville, TN",1435.0
+"Clarksburg/Fairmont, WV","Sanford, FL",727.0
+"Greensboro/High Point, NC","St. Petersburg, FL",587.0
+"Mission/McAllen/Edinburg, TX","Sanford, FL",1059.0
+"Melbourne, FL","Nashville, TN",656.0
+"Omaha, NE","St. Petersburg, FL",1188.0
+"Austin, TX","Grand Rapids, MI",1103.0
+"Austin, TX","West Palm Beach/Palm Beach, FL",1096.0
+"Portsmouth, NH","Punta Gorda, FL",1279.0
+"Houston, TX","Provo, UT",1181.0
+"Phoenix, AZ","Stockton, CA",603.0
+"Fayetteville, AR","St. Petersburg, FL",892.0
+"Appleton, WI","Nashville, TN",570.0
+"Des Moines, IA","Fort Lauderdale, FL",1315.0
+"Des Moines, IA","Los Angeles, CA",1447.0
+"Bangor, ME","Fort Lauderdale, FL",1438.0
+"Nashville, TN","Peoria, IL",353.0
+"Kalispell, MT","Las Vegas, NV",845.0
+"Belleville, IL","St. Petersburg, FL",841.0
+"Sanford, FL","Syracuse, NY",1029.0
+"Mission/McAllen/Edinburg, TX","Nashville, TN",967.0
+"Austin, TX","Springfield, MO",545.0
+"Pittsburgh, PA","St. Petersburg, FL",878.0
+"Denver, CO","Peoria, IL",793.0
+"Hagerstown, MD","St. Petersburg, FL",861.0
+"Des Moines, IA","Sarasota/Bradenton, FL",1160.0
+"Allentown/Bethlehem/Easton, PA","Nashville, TN",685.0
+"Indianapolis, IN","Jacksonville, FL",687.0
+"Moline, IL","St. Petersburg, FL",1033.0
+"Allentown/Bethlehem/Easton, PA","Fort Lauderdale, FL",1041.0
+"Austin, TX","Tulsa, OK",426.0
+"Charleston, SC","Pittsburgh, PA",524.0
+"Richmond, VA","Sarasota/Bradenton, FL",760.0
+"Norfolk, VA","Sanford, FL",631.0
+"Chattanooga, TN","St. Petersburg, FL",513.0
+"Grand Rapids, MI","Los Angeles, CA",1874.0
+"Nashville, TN","Syracuse, NY",741.0
+"Newburgh/Poughkeepsie, NY","Sanford, FL",965.0
+"Cleveland, OH","Punta Gorda, FL",999.0
+"Charleston, SC","Cincinnati, OH",497.0
+"Phoenix, AZ","Traverse City, MI",1599.0
+"Los Angeles, CA","Shreveport, LA",1425.0
+"Knoxville, TN","Newark, NJ",631.0
+"Los Angeles, CA","Tulsa, OK",1283.0
+"Asheville, NC","Baltimore, MD",414.0
+"Amarillo, TX","Las Vegas, NV",758.0
+"Honolulu, HI","Las Vegas, NV",2762.0
+"Honolulu, HI","San Francisco, CA",2398.0
+"Honolulu, HI","San Diego, CA",2614.0
+"Honolulu, HI","Sacramento, CA",2462.0
+"Kahului, HI","Oakland, CA",2349.0
+"Honolulu, HI","Portland, OR",2603.0
+"Kahului, HI","Las Vegas, NV",2695.0
+"Honolulu, HI","Phoenix, AZ",2917.0
+"Kahului, HI","San Diego, CA",2541.0
+"Kahului, HI","Portland, OR",2562.0
+"Kahului, HI","San Francisco, CA",2338.0
+"Honolulu, HI","San Jose, CA",2417.0
+"Kahului, HI","San Jose, CA",2355.0
+"Honolulu, HI","Oakland, CA",2409.0
+"Honolulu, HI","New York, NY",4983.0
+"Kahului, HI","Sacramento, CA",2404.0
+"Lihue, HI","Oakland, CA",2457.0
+"Honolulu, HI","Long Beach, CA",2569.0
+"Kahului, HI","Long Beach, CA",2498.0
+"Honolulu, HI","Ontario, CA",2603.0
+"Austin, TX","Honolulu, HI",3764.0
+"Honolulu, HI","Orlando, FL",4757.0
+"Boston, MA","Honolulu, HI",5095.0
+"Hilo, HI","Honolulu, HI",216.0
+"Honolulu, HI","Lihue, HI",102.0
+"Honolulu, HI","Kahului, HI",100.0
+"Honolulu, HI","Kona, HI",163.0
+"Hilo, HI","Kahului, HI",121.0
+"Kahului, HI","Kona, HI",84.0
+"Kahului, HI","Lihue, HI",201.0
+"Kona, HI","Lihue, HI",263.0
+"Honolulu, HI","Pago Pago, TT",2599.0
+"Dallas/Fort Worth, TX","Garden City, KS",404.0
+"Columbia, SC","Dallas/Fort Worth, TX",922.0
+"Charleston, SC","Dallas/Fort Worth, TX",987.0
+"Chicago, IL","Hayden, CO",1009.0
+"Jacksonville, FL","Miami, FL",335.0
+"Dallas/Fort Worth, TX","Kansas City, MO",460.0
+"Dallas/Fort Worth, TX","Evansville, IN",642.0
+"Cincinnati, OH","Washington, DC",388.0
+"Chicago, IL","Cincinnati, OH",249.0
+"Miami, FL","Pensacola, FL",530.0
+"Dallas/Fort Worth, TX","Fayetteville, AR",280.0
+"Knoxville, TN","Miami, FL",724.0
+"Chicago, IL","Des Moines, IA",299.0
+"Dallas/Fort Worth, TX","Harrisburg, PA",1231.0
+"Chicago, IL","Fargo, ND",557.0
+"Dallas/Fort Worth, TX","Midland/Odessa, TX",309.0
+"Chicago, IL","Rochester, NY",523.0
+"Chicago, IL","New Orleans, LA",837.0
+"Austin, TX","Chicago, IL",972.0
+"Des Moines, IA","Miami, FL",1327.0
+"Dallas/Fort Worth, TX","Tyler, TX",102.0
+"Chicago, IL","Toledo, OH",213.0
+"Hartford, CT","Washington, DC",325.0
+"Dallas/Fort Worth, TX","Tallahassee, FL",767.0
+"Chicago, IL","Raleigh/Durham, NC",632.0
+"Dallas/Fort Worth, TX","Springfield, MO",364.0
+"Chicago, IL","Greensboro/High Point, NC",589.0
+"Brownsville, TX","Dallas/Fort Worth, TX",482.0
+"Buffalo, NY","Dallas/Fort Worth, TX",1212.0
+"Dallas/Fort Worth, TX","Manhattan/Ft. Riley, KS",431.0
+"Chicago, IL","Manhattan/Ft. Riley, KS",501.0
+"Chicago, IL","Sioux Falls, SD",462.0
+"Chicago, IL","Indianapolis, IN",177.0
+"Dallas/Fort Worth, TX","Lake Charles, LA",295.0
+"Chicago, IL","Montrose/Delta, CO",1081.0
+"Baton Rouge, LA","Dallas/Fort Worth, TX",383.0
+"Bloomington/Normal, IL","Chicago, IL",116.0
+"Chicago, IL","Mosinee, WI",213.0
+"Dallas/Fort Worth, TX","Longview, TX",140.0
+"Dallas/Fort Worth, TX","Laredo, TX",396.0
+"Gainesville, FL","Miami, FL",294.0
+"Dallas/Fort Worth, TX","Gulfport/Biloxi, MS",500.0
+"Dallas/Fort Worth, TX","Lafayette, LA",351.0
+"Chicago, IL","Green Bay, WI",173.0
+"Columbus, OH","Miami, FL",990.0
+"Chicago, IL","Evansville, IN",272.0
+"Chicago, IL","Columbus, OH",283.0
+"Chicago, IL","Madison, WI",108.0
+"Kansas City, MO","Washington, DC",926.0
+"Chicago, IL","Little Rock, AR",552.0
+"Key West, FL","Miami, FL",126.0
+"Charleston, SC","Miami, FL",489.0
+"Dallas/Fort Worth, TX","Killeen, TX",134.0
+"Dallas/Fort Worth, TX","Wichita Falls, TX",113.0
+"Miami, FL","Milwaukee, WI",1258.0
+"Dallas/Fort Worth, TX","Grand Rapids, MI",931.0
+"Champaign/Urbana, IL","Chicago, IL",135.0
+"Buffalo, NY","Chicago, IL",474.0
+"Chicago, IL","Peoria, IL",130.0
+"Dallas/Fort Worth, TX","Madison, WI",821.0
+"Baltimore, MD","Chicago, IL",622.0
+"Boise, ID","Dallas/Fort Worth, TX",1272.0
+"Cedar Rapids/Iowa City, IA","Chicago, IL",196.0
+"Madison, WI","Miami, FL",1300.0
+"Dallas/Fort Worth, TX","Stillwater, OK",225.0
+"Dallas/Fort Worth, TX","Little Rock, AR",304.0
+"Chicago, IL","Tulsa, OK",583.0
+"Miami, FL","Oklahoma City, OK",1222.0
+"Dallas/Fort Worth, TX","Harlingen/San Benito, TX",461.0
+"Dallas/Fort Worth, TX","Waco, TX",89.0
+"Chicago, IL","Hartford, CT",776.0
+"Chicago, IL","Grand Rapids, MI",137.0
+"Abilene, TX","Dallas/Fort Worth, TX",158.0
+"Chicago, IL","Houston, TX",917.0
+"Fayetteville, AR","Miami, FL",1099.0
+"Chicago, IL","Kalamazoo, MI",122.0
+"Dallas/Fort Worth, TX","Greer, SC",862.0
+"Kansas City, MO","Miami, FL",1251.0
+"Chicago, IL","Wichita, KS",588.0
+"Chicago, IL","Memphis, TN",480.0
+"Dallas/Fort Worth, TX","Jackson/Vicksburg, MS",408.0
+"Chicago, IL","Greer, SC",577.0
+"Dallas/Fort Worth, TX","Mission/McAllen/Edinburg, TX",469.0
+"Chicago, IL","Waterloo, IA",234.0
+"Dallas/Fort Worth, TX","Savannah, GA",925.0
+"Dallas/Fort Worth, TX","Fort Smith, AR",227.0
+"Dallas/Fort Worth, TX","Huntsville, AL",603.0
+"Chicago, IL","La Crosse, WI",215.0
+"Little Rock, AR","Washington, DC",888.0
+"Dallas/Fort Worth, TX","Lawton/Fort Sill, OK",140.0
+"Dallas/Fort Worth, TX","Del Rio, TX",335.0
+"Dallas/Fort Worth, TX","Tulsa, OK",237.0
+"Cincinnati, OH","Dallas/Fort Worth, TX",812.0
+"Alexandria, LA","Dallas/Fort Worth, TX",285.0
+"Miami, FL","Pittsburgh, PA",1013.0
+"Greensboro/High Point, NC","Miami, FL",710.0
+"Chattanooga, TN","Dallas/Fort Worth, TX",695.0
+"Dallas/Fort Worth, TX","Lexington, KY",785.0
+"Dallas/Fort Worth, TX","Greensboro/High Point, NC",999.0
+"Chicago, IL","Dubuque, IA",147.0
+"Austin, TX","Jacksonville, FL",954.0
+"Chicago, IL","Fort Wayne, IN",157.0
+"Houston, TX","Miami, FL",955.0
+"Austin, TX","Dallas/Fort Worth, TX",190.0
+"Corpus Christi, TX","Dallas/Fort Worth, TX",354.0
+"College Station/Bryan, TX","Dallas/Fort Worth, TX",164.0
+"Chicago, IL","Richmond, VA",629.0
+"Dallas/Fort Worth, TX","San Angelo, TX",229.0
+"Chicago, IL","Moline, IL",139.0
+"Chicago, IL","Louisville, KY",271.0
+"Austin, TX","El Paso, TX",528.0
+"Chicago, IL","Newark, NJ",719.0
+"Chicago, IL","Marquette, MI",303.0
+"Chicago, IL","Flint, MI",223.0
+"Dallas/Fort Worth, TX","Monroe, LA",293.0
+"Chicago, IL","Jacksonville, FL",849.0
+"Chicago, IL","Pittsburgh, PA",402.0
+"Dallas/Fort Worth, TX","Monterey, CA",1430.0
+"Chicago, IL","Kansas City, MO",405.0
+"Chicago, IL","Syracuse, NY",607.0
+"Austin, TX","Nashville, TN",756.0
+"Miami, FL","Nashville, TN",806.0
+"Augusta, GA","Dallas/Fort Worth, TX",874.0
+"Austin, TX","Oklahoma City, OK",358.0
+"Chicago, IL","Springfield, MO",438.0
+"Dallas/Fort Worth, TX","El Paso, TX",551.0
+"Miami, FL","New Orleans, LA",675.0
+"Raleigh/Durham, NC","Washington, DC",224.0
+"Chicago, IL","Milwaukee, WI",67.0
+"Birmingham, AL","Miami, FL",661.0
+"Chicago, IL","St. Louis, MO",251.0
+"Dallas/Fort Worth, TX","Oklahoma City, OK",175.0
+"Chicago, IL","Norfolk, VA",704.0
+"Dallas/Fort Worth, TX","Lubbock, TX",282.0
+"Chicago, IL","Huntsville, AL",510.0
+"Dallas/Fort Worth, TX","Texarkana, AR",181.0
+"Miami, FL","Omaha, NE",1393.0
+"Dallas/Fort Worth, TX","Dayton, OH",861.0
+"Austin, TX","Fort Myers, FL",1001.0
+"Dallas/Fort Worth, TX","Grand Junction, CO",773.0
+"Chicago, IL","Cleveland, OH",316.0
+"Chicago, IL","Fayetteville, AR",522.0
+"Austin, TX","Raleigh/Durham, NC",1162.0
+"Miami, FL","Savannah, GA",440.0
+"Dallas/Fort Worth, TX","Gainesville, FL",900.0
+"Albuquerque, NM","Chicago, IL",1121.0
+"Dallas/Fort Worth, TX","Memphis, TN",431.0
+"Chicago, IL","Omaha, NE",423.0
+"Miami, FL","Tampa, FL",204.0
+"Chicago, IL","El Paso, TX",1236.0
+"Fayetteville, AR","Washington, DC",963.0
+"Charlotte, NC","Columbus, OH",347.0
+"Chicago, IL","Scranton/Wilkes-Barre, PA",632.0
+"Dallas/Fort Worth, TX","Knoxville, TN",772.0
+"Dallas/Fort Worth, TX","Valparaiso, FL",641.0
+"Chicago, IL","Lexington, KY",323.0
+"Little Rock, AR","Miami, FL",941.0
+"Charlotte, NC","Pittsburgh, PA",366.0
+"Miami, FL","Tallahassee, FL",402.0
+"Dallas/Fort Worth, TX","Montgomery, AL",622.0
+"Dallas/Fort Worth, TX","Mobile, AL",539.0
+"Chicago, IL","Traverse City, MI",224.0
+"Dallas/Fort Worth, TX","Springfield, IL",630.0
+"Chicago, IL","San Antonio, TX",1036.0
+"Amarillo, TX","Dallas/Fort Worth, TX",312.0
+"Chicago, IL","Sarasota/Bradenton, FL",1035.0
+"Dallas/Fort Worth, TX","Wichita, KS",328.0
+"Champaign/Urbana, IL","Dallas/Fort Worth, TX",693.0
+"Albuquerque, NM","Austin, TX",619.0
+"Augusta, GA","Washington, DC",468.0
+"Dallas/Fort Worth, TX","Grand Island, NE",561.0
+"Charlotte, NC","Springfield, MO",708.0
+"Louisville, KY","Miami, FL",910.0
+"Charlotte, NC","Fayetteville, AR",754.0
+"Birmingham, AL","Chicago, IL",584.0
+"Austin, TX","Tampa, FL",928.0
+"Grand Rapids, MI","Miami, FL",1214.0
+"Chicago, IL","Rochester, MN",268.0
+"Dallas/Fort Worth, TX","Omaha, NE",583.0
+"Chicago, IL","Nashville, TN",395.0
+"Dallas/Fort Worth, TX","Des Moines, IA",624.0
+"Columbus, OH","Washington, DC",299.0
+"Dallas/Fort Worth, TX","Shreveport, LA",190.0
+"Chicago, IL","Key West, FL",1251.0
+"Charlotte, NC","Des Moines, IA",815.0
+"Chicago, IL","Columbia, MO",315.0
+"Miami, FL","Richmond, VA",825.0
+"Birmingham, AL","Dallas/Fort Worth, TX",597.0
+"Charleston, SC","Washington, DC",441.0
+"Chicago, IL","Washington, DC",588.0
+"Dallas/Fort Worth, TX","Missoula, MT",1320.0
+"Allentown/Bethlehem/Easton, PA","Chicago, IL",655.0
+"Nashville, TN","Raleigh/Durham, NC",442.0
+"Colorado Springs, CO","Dallas/Fort Worth, TX",592.0
+"Dallas/Fort Worth, TX","San Luis Obispo, CA",1360.0
+"Dallas/Fort Worth, TX","Myrtle Beach, SC",1048.0
+"Hartford, CT","Miami, FL",1194.0
+"Austin, TX","Kansas City, MO",650.0
+"Chicago, IL","Lansing, MI",179.0
+"Chicago, IL","Harrisburg, PA",594.0
+"Beaumont/Port Arthur, TX","Dallas/Fort Worth, TX",270.0
+"Appleton, WI","Chicago, IL",160.0
+"Billings, MT","Dallas/Fort Worth, TX",1081.0
+"Indianapolis, IN","Miami, FL",1020.0
+"Columbus, OH","Dallas/Fort Worth, TX",926.0
+"Dallas/Fort Worth, TX","Wilmington, NC",1106.0
+"Dallas/Fort Worth, TX","Indianapolis, IN",761.0
+"Charleston, SC","Chicago, IL",760.0
+"Asheville, NC","Dallas/Fort Worth, TX",848.0
+"Indianapolis, IN","Washington, DC",476.0
+"Dallas/Fort Worth, TX","St. Louis, MO",550.0
+"Austin, TX","New Orleans, LA",444.0
+"Dallas/Fort Worth, TX","Montrose/Delta, CO",722.0
+"Dallas/Fort Worth, TX","Houston, TX",247.0
+"Dallas/Fort Worth, TX","Roswell, NM",435.0
+"Charlotte, NC","Indianapolis, IN",427.0
+"Austin, TX","St. Louis, MO",721.0
+"Austin, TX","Reno, NV",1405.0
+"Austin, TX","Sarasota/Bradenton, FL",936.0
+"Bozeman, MT","Chicago, IL",1185.0
+"Greer, SC","Miami, FL",637.0
+"Chicago, IL","Dayton, OH",240.0
+"Chicago, IL","Fort Lauderdale, FL",1167.0
+"Myrtle Beach, SC","Newark, NJ",550.0
+"Fort Lauderdale, FL","Philadelphia, PA",992.0
+"Fort Myers, FL","Newark, NJ",1068.0
+"Fort Lauderdale, FL","Myrtle Beach, SC",529.0
+"Houston, TX","New Orleans, LA",302.0
+"Atlantic City, NJ","Orlando, FL",852.0
+"Fort Lauderdale, FL","Tampa, FL",197.0
+"Fort Lauderdale, FL","St. Louis, MO",1057.0
+"Baltimore, MD","San Juan, PR",1565.0
+"Los Angeles, CA","St. Louis, MO",1592.0
+"Fort Myers, FL","St. Louis, MO",979.0
+"St. Louis, MO","Tampa, FL",869.0
+"Nashville, TN","Newark, NJ",748.0
+"Las Vegas, NV","Newark, NJ",2227.0
+"Fort Myers, FL","Kansas City, MO",1155.0
+"Kansas City, MO","Tampa, FL",1048.0
+"Columbus, OH","Fort Myers, FL",930.0
+"Las Vegas, NV","Louisville, KY",1624.0
+"Fort Lauderdale, FL","Newark, NJ",1065.0
+"Boston, MA","Myrtle Beach, SC",738.0
+"Fort Lauderdale, FL","San Juan, PR",1046.0
+"New Orleans, LA","Newark, NJ",1167.0
+"Milwaukee, WI","Phoenix, AZ",1460.0
+"Phoenix, AZ","St. Louis, MO",1262.0
+"Baltimore, MD","Los Angeles, CA",2329.0
+"Baltimore, MD","Fort Lauderdale, FL",925.0
+"Denver, CO","Fort Lauderdale, FL",1703.0
+"Fort Myers, FL","Hartford, CT",1180.0
+"Myrtle Beach, SC","New York, NY",563.0
+"Los Angeles, CA","Oakland, CA",337.0
+"Chicago, IL","Los Angeles, CA",1750.0
+"Fort Lauderdale, FL","Pittsburgh, PA",994.0
+"Fort Lauderdale, FL","Milwaukee, WI",1243.0
+"Aguadilla, PR","Orlando, FL",1129.0
+"Indianapolis, IN","Tampa, FL",837.0
+"Chicago, IL","Dallas/Fort Worth, TX",802.0
+"New Orleans, LA","Tampa, FL",488.0
+"Atlantic City, NJ","West Palm Beach/Palm Beach, FL",936.0
+"Louisville, KY","Tampa, FL",727.0
+"Fort Myers, FL","Louisville, KY",835.0
+"Myrtle Beach, SC","Philadelphia, PA",473.0
+"Baltimore, MD","Boston, MA",369.0
+"Dallas/Fort Worth, TX","Fort Lauderdale, FL",1119.0
+"Cleveland, OH","Fort Lauderdale, FL",1062.0
+"Latrobe, PA","Tampa, FL",866.0
+"Fort Lauderdale, FL","Richmond, VA",805.0
+"Charleston/Dunbar, WV","Orlando, FL",686.0
+"Baltimore, MD","Houston, TX",1246.0
+"Fort Myers, FL","Latrobe, PA",956.0
+"Cleveland, OH","Los Angeles, CA",2052.0
+"Fort Lauderdale, FL","Orlando, FL",177.0
+"Fort Lauderdale, FL","Nashville, TN",793.0
+"San Juan, PR","Tampa, FL",1237.0
+"Fort Lauderdale, FL","Manchester, NH",1262.0
+"Manchester, NH","Orlando, FL",1142.0
+"Charlotte Amalie, VI","Fort Lauderdale, FL",1107.0
+"Fort Myers, FL","Manchester, NH",1271.0
+"Manchester, NH","Tampa, FL",1204.0
+"Baltimore, MD","Dallas/Fort Worth, TX",1217.0
+"Houston, TX","Tampa, FL",781.0
+"Columbus, OH","Las Vegas, NV",1771.0
+"Austin, TX","Orlando, FL",994.0
+"Myrtle Beach, SC","Orlando, FL",388.0
+"Austin, TX","Newark, NJ",1504.0
+"Atlantic City, NJ","San Juan, PR",1536.0
+"Boston, MA","San Juan, PR",1674.0
+"Atlantic City, NJ","Fort Lauderdale, FL",977.0
+"Fort Lauderdale, FL","Houston, TX",957.0
+"Los Angeles, CA","Philadelphia, PA",2402.0
+"Akron, OH","Tampa, FL",894.0
+"Pittsburgh, PA","Tampa, FL",873.0
+"Akron, OH","Fort Myers, FL",991.0
+"Baltimore, MD","Myrtle Beach, SC",399.0
+"Oakland, CA","Santa Ana, CA",371.0
+"Atlantic City, NJ","Miami, FL",998.0
+"Miami, FL","Myrtle Beach, SC",549.0
+"Las Vegas, NV","Pittsburgh, PA",1910.0
+"Atlantic City, NJ","Tampa, FL",913.0
+"Atlantic City, NJ","Fort Myers, FL",982.0
+"Atlantic City, NJ","Myrtle Beach, SC",466.0
+"Baltimore, MD","Fort Myers, FL",919.0
+"Aguadilla, PR","Fort Lauderdale, FL",982.0
+"Baltimore, MD","Tampa, FL",842.0
+"Akron, OH","Orlando, FL",861.0
+"Fort Lauderdale, FL","Kansas City, MO",1242.0
+"Hartford, CT","Tampa, FL",1111.0
+"Christiansted, VI","Fort Lauderdale, FL",1140.0
+"Kansas City, MO","Las Vegas, NV",1139.0
+"Los Angeles, CA","Louisville, KY",1843.0
+"Austin, TX","Fort Lauderdale, FL",1105.0
+"Fort Myers, FL","Pittsburgh, PA",966.0
+"Los Angeles, CA","Milwaukee, WI",1756.0
+"Los Angeles, CA","Pittsburgh, PA",2136.0
+"Fort Lauderdale, FL","New Orleans, LA",674.0
+"Dallas/Fort Worth, TX","New Orleans, LA",447.0
+"Baltimore, MD","Las Vegas, NV",2106.0
+"Houston, TX","Newark, NJ",1400.0
+"Fort Lauderdale, FL","Latrobe, PA",980.0
+"Fort Lauderdale, FL","Las Vegas, NV",2173.0
+"Orlando, FL","Richmond, VA",667.0
+"Latrobe, PA","Orlando, FL",823.0
+"Sacramento, CA","Santa Ana, CA",404.0
+"Columbus, OH","Los Angeles, CA",1995.0
+"Baltimore, MD","New Orleans, LA",998.0
+"Charlotte, NC","Fort Lauderdale, FL",632.0
+"Manchester, NH","Washington, DC",418.0
+"Milwaukee, WI","Philadelphia, PA",690.0
+"Philadelphia, PA","Washington, DC",135.0
+"Charlotte, NC","Norfolk, VA",290.0
+"Jackson/Vicksburg, MS","Washington, DC",860.0
+"Columbia, SC","Washington, DC",401.0
+"Hartford, CT","Philadelphia, PA",196.0
+"Charlotte, NC","Madison, WI",708.0
+"Greer, SC","Washington, DC",384.0
+"Charlotte, NC","Scranton/Wilkes-Barre, PA",509.0
+"Bangor, ME","Charlotte, NC",921.0
+"Charlotte, NC","Chattanooga, TN",241.0
+"Charlotte, NC","Lexington, KY",281.0
+"Dayton, OH","Washington, DC",368.0
+"Indianapolis, IN","Philadelphia, PA",588.0
+"Grand Rapids, MI","Washington, DC",501.0
+"Charlotte, NC","Fort Wayne, IN",460.0
+"Charlotte, NC","Savannah, GA",213.0
+"Daytona Beach, FL","Philadelphia, PA",808.0
+"Charlotte, NC","Milwaukee, WI",651.0
+"Charlotte, NC","Jacksonville, FL",328.0
+"Charlotte, NC","Knoxville, TN",177.0
+"Allentown/Bethlehem/Easton, PA","Charlotte, NC",481.0
+"Charlotte, NC","Dayton, OH",370.0
+"Charlotte, NC","Newport News/Williamsburg, VA",282.0
+"Charlotte, NC","Wilmington, NC",185.0
+"Charlotte, NC","Hartford, CT",644.0
+"Birmingham, AL","Charlotte, NC",350.0
+"Greer, SC","Philadelphia, PA",515.0
+"Charlotte, NC","Cleveland, OH",430.0
+"Philadelphia, PA","Savannah, GA",629.0
+"Charlotte, NC","Erie, PA",476.0
+"Akron, OH","Washington, DC",251.0
+"Charlotte, NC","Little Rock, AR",640.0
+"Kansas City, MO","Philadelphia, PA",1038.0
+"Charlotte, NC","Lynchburg, VA",175.0
+"Syracuse, NY","Washington, DC",296.0
+"Charlotte, NC","Columbia, SC",88.0
+"Cincinnati, OH","Philadelphia, PA",507.0
+"Charlotte, NC","White Plains, NY",564.0
+"Albany, NY","Washington, DC",325.0
+"Charlotte, NC","Pensacola, FL",488.0
+"Charlotte, NC","Greensboro/High Point, NC",83.0
+"Pensacola, FL","Philadelphia, PA",935.0
+"Charlotte, NC","Fayetteville, NC",118.0
+"Dayton, OH","Philadelphia, PA",477.0
+"Charlotte, NC","Sioux Falls, SD",1021.0
+"Charlotte, NC","Sarasota/Bradenton, FL",547.0
+"Charlotte, NC","Syracuse, NY",603.0
+"Tallahassee, FL","Washington, DC",716.0
+"Augusta, GA","Charlotte, NC",140.0
+"Asheville, NC","Charlotte, NC",91.0
+"Charlotte, NC","New Bern/Morehead/Beaufort, NC",221.0
+"Norfolk, VA","Philadelphia, PA",212.0
+"Buffalo, NY","Philadelphia, PA",279.0
+"Cleveland, OH","Philadelphia, PA",363.0
+"Charlotte, NC","Louisville, KY",335.0
+"Charlotte, NC","Jackson/Vicksburg, MS",562.0
+"Bangor, ME","Philadelphia, PA",473.0
+"Charlotte, NC","Grand Rapids, MI",583.0
+"Bangor, ME","Washington, DC",601.0
+"Huntsville, AL","Washington, DC",596.0
+"Greensboro/High Point, NC","Washington, DC",239.0
+"Charlotte, NC","Memphis, TN",511.0
+"Des Moines, IA","Washington, DC",897.0
+"Portland, ME","Washington, DC",493.0
+"Charlotte, NC","Ithaca/Cortland, NY",557.0
+"Dallas/Fort Worth, TX","Pensacola, FL",604.0
+"Charlotte, NC","Flint, MI",555.0
+"Baton Rouge, LA","Charlotte, NC",675.0
+"Charlotte, NC","Myrtle Beach, SC",157.0
+"Charlotte, NC","New Orleans, LA",651.0
+"Buffalo, NY","Washington, DC",283.0
+"Charlotte, NC","Cincinnati, OH",335.0
+"Philadelphia, PA","St. Louis, MO",814.0
+"Charlotte, NC","Providence, RI",683.0
+"Grand Rapids, MI","Philadelphia, PA",573.0
+"Birmingham, AL","Washington, DC",653.0
+"Charlotte, NC","Melbourne, FL",490.0
+"Knoxville, TN","Washington, DC",419.0
+"Charleston, SC","Charlotte, NC",168.0
+"Charlotte, NC","Washington, DC",322.0
+"Oklahoma City, OK","Washington, DC",1158.0
+"Charleston/Dunbar, WV","Washington, DC",249.0
+"Burlington, VT","Charlotte, NC",761.0
+"Akron, OH","Charlotte, NC",394.0
+"Charlotte, NC","Richmond, VA",257.0
+"Charlotte, NC","Jacksonville/Camp Lejeune, NC",191.0
+"Birmingham, AL","Philadelphia, PA",772.0
+"Burlington, VT","Philadelphia, PA",335.0
+"Charlotte, NC","Shreveport, LA",764.0
+"Rochester, NY","Washington, DC",288.0
+"Melbourne, FL","Washington, DC",769.0
+"Baltimore, MD","Charlotte, NC",361.0
+"Cedar Rapids/Iowa City, IA","Charlotte, NC",742.0
+"Charlotte, NC","Daytona Beach, FL",416.0
+"Charlotte, NC","Charlottesville, VA",245.0
+"Charleston, SC","Philadelphia, PA",550.0
+"Memphis, TN","Washington, DC",762.0
+"Charlotte, NC","Columbus, GA",295.0
+"Charlotte, NC","Nashville, TN",328.0
+"Philadelphia, PA","Providence, RI",237.0
+"Charlotte, NC","Peoria, IL",607.0
+"Charlotte, NC","Gainesville, FL",388.0
+"Cleveland, OH","Washington, DC",288.0
+"Savannah, GA","Washington, DC",515.0
+"Columbus, OH","Philadelphia, PA",406.0
+"Providence, RI","Washington, DC",371.0
+"Philadelphia, PA","Portland, ME",364.0
+"Charleston/Dunbar, WV","Charlotte, NC",221.0
+"Charlotte, NC","Kansas City, MO",808.0
+"Norfolk, VA","Washington, DC",157.0
+"Charlotte, NC","Tallahassee, FL",386.0
+"Washington, DC","White Plains, NY",234.0
+"Charlotte, NC","Valparaiso, FL",460.0
+"Charlotte, NC","South Bend, IN",534.0
+"Charlotte, NC","Harrisburg, PA",413.0
+"Panama City, FL","Washington, DC",769.0
+"Albany, NY","Charlotte, NC",646.0
+"Buffalo, NY","Charlotte, NC",546.0
+"Charlotte, NC","Greer, SC",75.0
+"Pittsburgh, PA","Washington, DC",182.0
+"Charlotte, NC","Manchester, NH",737.0
+"Charlotte, NC","Gulfport/Biloxi, MS",577.0
+"Pensacola, FL","Washington, DC",804.0
+"New Orleans, LA","Washington, DC",955.0
+"Charlotte, NC","Lafayette, LA",729.0
+"Washington, DC","Wilmington, NC",323.0
+"Charlotte, NC","Omaha, NE",913.0
+"St. Louis, MO","Washington, DC",696.0
+"Alexandria, LA","Charlotte, NC",722.0
+"Louisville, KY","Washington, DC",451.0
+"Knoxville, TN","Philadelphia, PA",554.0
+"Nashville, TN","Washington, DC",542.0
+"Charlotte, NC","St. Louis, MO",575.0
+"Charlotte, NC","Oklahoma City, OK",940.0
+"Charlotte, NC","Panama City, FL",437.0
+"Tulsa, OK","Washington, DC",1049.0
+"Madison, WI","Philadelphia, PA",764.0
+"Manchester, NH","Philadelphia, PA",289.0
+"Charlotte, NC","Rochester, NY",573.0
+"Chattanooga, TN","Washington, DC",523.0
+"Charlotte, NC","Tulsa, OK",842.0
+"Memphis, TN","Philadelphia, PA",875.0
+"Valparaiso, FL","Washington, DC",789.0
+"Charlotte, NC","Huntsville, AL",333.0
+"Philadelphia, PA","Pittsburgh, PA",268.0
+"Charlotte, NC","Raleigh/Durham, NC",130.0
+"Lansing, MI","Washington, DC",479.0
+"Appleton, WI","Charlotte, NC",742.0
+"Montgomery, AL","Washington, DC",693.0
+"Bristol/Johnson City/Kingsport, TN","Charlotte, NC",119.0
+"Burlington, VT","Washington, DC",441.0
+"Seattle, WA","Yakima, WA",103.0
+"Anchorage, AK","Fairbanks, AK",261.0
+"San Diego, CA","Spokane, WA",1027.0
+"Idaho Falls, ID","Seattle, WA",566.0
+"Fresno, CA","Seattle, WA",748.0
+"San Luis Obispo, CA","Seattle, WA",847.0
+"Great Falls, MT","Seattle, WA",512.0
+"Redding, CA","Seattle, WA",479.0
+"Santa Rosa, CA","Seattle, WA",618.0
+"Helena, MT","Seattle, WA",491.0
+"Boise, ID","Portland, OR",344.0
+"Billings, MT","Seattle, WA",664.0
+"Seattle, WA","Walla Walla, WA",213.0
+"Boise, ID","San Francisco, CA",522.0
+"Monterey, CA","Seattle, WA",750.0
+"Santa Barbara, CA","Seattle, WA",908.0
+"Seattle, WA","Sun Valley/Hailey/Ketchum, ID",475.0
+"Seattle, WA","Wichita, KS",1430.0
+"Medford, OR","Seattle, WA",352.0
+"Eugene, OR","Seattle, WA",234.0
+"San Diego, CA","San Jose, CA",417.0
+"Pasco/Kennewick/Richland, WA","Seattle, WA",172.0
+"Bend/Redmond, OR","Seattle, WA",228.0
+"Everett, WA","Las Vegas, NV",894.0
+"Pullman, WA","Seattle, WA",250.0
+"Portland, OR","San Jose, CA",569.0
+"Seattle, WA","Wenatchee, WA",99.0
+"Boise, ID","Everett, WA",419.0
+"Missoula, MT","Seattle, WA",389.0
+"Portland, OR","Spokane, WA",279.0
+"Fresno, CA","Portland, OR",626.0
+"Portland, OR","San Francisco, CA",550.0
+"Portland, OR","Santa Ana, CA",859.0
+"Oakland, CA","Seattle, WA",672.0
+"Oakland, CA","Portland, OR",543.0
+"Boise, ID","San Jose, CA",523.0
+"Everett, WA","Phoenix, AZ",1133.0
+"San Francisco, CA","Spokane, WA",733.0
+"San Diego, CA","San Francisco, CA",447.0
+"Boise, ID","Seattle, WA",399.0
+"Kalispell, MT","Seattle, WA",379.0
+"Reno, NV","Seattle, WA",564.0
+"Bend/Redmond, OR","Los Angeles, CA",726.0
+"Bozeman, MT","Seattle, WA",543.0
+"Bellingham, WA","Seattle, WA",93.0
+"Everett, WA","Palm Springs, CA",1017.0
+"Portland, OR","Reno, NV",444.0
+"Everett, WA","Spokane, WA",222.0
+"Los Angeles, CA","San Jose, CA",308.0
+"Medford, OR","Portland, OR",222.0
+"Portland, OR","San Diego, CA",933.0
+"Hayden, CO","Seattle, WA",891.0
+"Boise, ID","Sacramento, CA",437.0
+"El Paso, TX","Seattle, WA",1368.0
+"Portland, OR","Santa Rosa, CA",489.0
+"Los Angeles, CA","Spokane, WA",945.0
+"Boise, ID","Spokane, WA",287.0
+"Portland, OR","San Luis Obispo, CA",722.0
+"Los Angeles, CA","Reno, NV",391.0
+"Anchorage, AK","Dillingham, AK",329.0
+"Everett, WA","Tucson, AZ",1241.0
+"San Jose, CA","Spokane, WA",742.0
+"Austin, TX","Boise, ID",1375.0
+"Boise, ID","Pullman, WA",224.0
+"Sacramento, CA","San Diego, CA",480.0
+"Boise, ID","Chicago, IL",1437.0
+"Portland, OR","Santa Barbara, CA",784.0
+"Anchorage, AK","King Salmon, AK",288.0
+"Monterey, CA","San Diego, CA",375.0
+"Dallas/Fort Worth, TX","Portland, OR",1616.0
+"Chicago, IL","Portland, OR",1751.0
+"San Jose, CA","Seattle, WA",696.0
+"Sacramento, CA","Seattle, WA",605.0
+"Everett, WA","Portland, OR",161.0
+"Boise, ID","San Diego, CA",749.0
+"Portland, OR","Sacramento, CA",479.0
+"Palm Springs, CA","San Jose, CA",390.0
+"Albuquerque, NM","Portland, OR",1111.0
+"Dallas/Fort Worth, TX","Seattle, WA",1660.0
+"Palm Springs, CA","Portland, OR",873.0
+"Boise, ID","Palm Springs, CA",672.0
+"Everett, WA","Santa Ana, CA",1008.0
+"Everett, WA","San Diego, CA",1080.0
+"San Diego, CA","Santa Barbara, CA",192.0
+"Albuquerque, NM","Baltimore, MD",1670.0
+"Albuquerque, NM","Dallas, TX",580.0
+"Albuquerque, NM","Houston, TX",744.0
+"Albuquerque, NM","Los Angeles, CA",677.0
+"Albuquerque, NM","Kansas City, MO",718.0
+"Albuquerque, NM","Oakland, CA",889.0
+"Albuquerque, NM","Phoenix, AZ",328.0
+"Albuquerque, NM","San Diego, CA",628.0
+"Albuquerque, NM","San Antonio, TX",609.0
+"Albany, NY","Baltimore, MD",289.0
+"Amarillo, TX","Dallas, TX",323.0
+"Austin, TX","Burbank, CA",1241.0
+"Austin, TX","Baltimore, MD",1342.0
+"Austin, TX","Dallas, TX",189.0
+"Austin, TX","Washington, DC",1297.0
+"Austin, TX","Houston, TX",140.0
+"Austin, TX","Lubbock, TX",341.0
+"Austin, TX","Long Beach, CA",1226.0
+"Austin, TX","Miami, FL",1103.0
+"Austin, TX","Oakland, CA",1497.0
+"Austin, TX","Phoenix, AZ",872.0
+"Austin, TX","San Diego, CA",1164.0
+"Austin, TX","San Jose, CA",1476.0
+"Austin, TX","Sacramento, CA",1481.0
+"Hartford, CT","Nashville, TN",852.0
+"Baltimore, MD","Hartford, CT",283.0
+"Denver, CO","Hartford, CT",1671.0
+"Fort Lauderdale, FL","Hartford, CT",1173.0
+"Baltimore, MD","Birmingham, AL",682.0
+"Birmingham, AL","Dallas, TX",587.0
+"Birmingham, AL","Denver, CO",1083.0
+"Birmingham, AL","Houston, TX",562.0
+"Birmingham, AL","Las Vegas, NV",1618.0
+"Birmingham, AL","Orlando, FL",479.0
+"Birmingham, AL","Tampa, FL",459.0
+"Boston, MA","Nashville, TN",942.0
+"Burbank, CA","Nashville, TN",1791.0
+"Baltimore, MD","Nashville, TN",587.0
+"Charleston, SC","Nashville, TN",439.0
+"Cleveland, OH","Nashville, TN",448.0
+"Columbus, OH","Nashville, TN",337.0
+"Dallas, TX","Nashville, TN",623.0
+"Nashville, TN","Panama City, FL",401.0
+"Houston, TX","Nashville, TN",657.0
+"Islip, NY","Nashville, TN",803.0
+"Kansas City, MO","Nashville, TN",491.0
+"Milwaukee, WI","Nashville, TN",475.0
+"Nashville, TN","New Orleans, LA",471.0
+"Myrtle Beach, SC","Nashville, TN",471.0
+"Nashville, TN","Oakland, CA",1959.0
+"Nashville, TN","Oklahoma City, OK",616.0
+"Nashville, TN","Norfolk, VA",585.0
+"Nashville, TN","Phoenix, AZ",1449.0
+"Nashville, TN","Pensacola, FL",391.0
+"Fort Myers, FL","Nashville, TN",722.0
+"Nashville, TN","San Diego, CA",1751.0
+"Nashville, TN","San Antonio, TX",822.0
+"Nashville, TN","Savannah, GA",417.0
+"Nashville, TN","San Jose, CA",1947.0
+"Nashville, TN","San Juan, PR",1753.0
+"Nashville, TN","Santa Ana, CA",1772.0
+"Nashville, TN","St. Louis, MO",272.0
+"Nashville, TN","Tampa, FL",612.0
+"Nashville, TN","Valparaiso, FL",389.0
+"Boise, ID","Denver, CO",649.0
+"Boise, ID","Oakland, CA",512.0
+"Boston, MA","Denver, CO",1754.0
+"Boston, MA","Houston, TX",1597.0
+"Boston, MA","St. Louis, MO",1047.0
+"Baltimore, MD","Buffalo, NY",281.0
+"Buffalo, NY","Denver, CO",1359.0
+"Buffalo, NY","Fort Lauderdale, FL",1166.0
+"Buffalo, NY","Las Vegas, NV",1986.0
+"Buffalo, NY","Phoenix, AZ",1912.0
+"Buffalo, NY","San Juan, PR",1845.0
+"Burbank, CA","Dallas, TX",1243.0
+"Burbank, CA","Houston, TX",1389.0
+"Burbank, CA","Oakland, CA",325.0
+"Burbank, CA","Reno, NV",374.0
+"Burbank, CA","San Francisco, CA",326.0
+"Burbank, CA","San Jose, CA",296.0
+"Burbank, CA","Salt Lake City, UT",574.0
+"Burbank, CA","Sacramento, CA",358.0
+"Baltimore, MD","Charleston, SC",472.0
+"Baltimore, MD","Cleveland, OH",314.0
+"Baltimore, MD","Columbus, OH",337.0
+"Baltimore, MD","Cincinnati, OH",430.0
+"Baltimore, MD","Dallas, TX",1209.0
+"Baltimore, MD","Greer, SC",426.0
+"Baltimore, MD","Indianapolis, IN",516.0
+"Baltimore, MD","Islip, NY",220.0
+"Baltimore, MD","Jackson/Vicksburg, MS",888.0
+"Baltimore, MD","Jacksonville, FL",663.0
+"Baltimore, MD","New York, NY",184.0
+"Baltimore, MD","Kansas City, MO",967.0
+"Baltimore, MD","Memphis, TN",787.0
+"Baltimore, MD","Manchester, NH",377.0
+"Baltimore, MD","Milwaukee, WI",641.0
+"Baltimore, MD","Norfolk, VA",159.0
+"Baltimore, MD","West Palm Beach/Palm Beach, FL",883.0
+"Baltimore, MD","Phoenix, AZ",1999.0
+"Baltimore, MD","Pittsburgh, PA",210.0
+"Baltimore, MD","Providence, RI",327.0
+"Baltimore, MD","Portland, ME",452.0
+"Baltimore, MD","Raleigh/Durham, NC",255.0
+"Baltimore, MD","Rochester, NY",277.0
+"Baltimore, MD","San Diego, CA",2295.0
+"Baltimore, MD","San Antonio, TX",1407.0
+"Baltimore, MD","Savannah, GA",549.0
+"Baltimore, MD","Louisville, KY",495.0
+"Baltimore, MD","St. Louis, MO",738.0
+"Baltimore, MD","Syracuse, NY",273.0
+"Baltimore, MD","Valparaiso, FL",819.0
+"Bozeman, MT","Dallas, TX",1172.0
+"Bozeman, MT","Denver, CO",524.0
+"Charleston, SC","Dallas, TX",977.0
+"Charleston, SC","Denver, CO",1449.0
+"Cleveland, OH","St. Louis, MO",487.0
+"Charlotte, NC","Dallas, TX",926.0
+"Columbus, OH","Dallas, TX",919.0
+"Columbus, OH","Denver, CO",1154.0
+"Columbus, OH","Houston, TX",1000.0
+"Columbus, OH","Phoenix, AZ",1670.0
+"Columbus, OH","St. Louis, MO",409.0
+"Colorado Springs, CO","Dallas, TX",602.0
+"Colorado Springs, CO","Denver, CO",73.0
+"Colorado Springs, CO","San Antonio, TX",732.0
+"Corpus Christi, TX","Houston, TX",201.0
+"Dallas, TX","Washington, DC",1184.0
+"Dallas, TX","Denver, CO",651.0
+"Dallas, TX","Panama City, FL",674.0
+"Dallas, TX","El Paso, TX",562.0
+"Dallas, TX","Fort Lauderdale, FL",1108.0
+"Dallas, TX","Hayden, CO",779.0
+"Dallas, TX","Houston, TX",216.0
+"Dallas, TX","Harlingen/San Benito, TX",458.0
+"Dallas, TX","Indianapolis, IN",755.0
+"Dallas, TX","Jacksonville, FL",907.0
+"Dallas, TX","Las Vegas, NV",1067.0
+"Dallas, TX","Los Angeles, CA",1246.0
+"Dallas, TX","Lubbock, TX",293.0
+"Dallas, TX","New York, NY",1381.0
+"Dallas, TX","Long Beach, CA",1232.0
+"Dallas, TX","Little Rock, AR",296.0
+"Dallas, TX","Midland/Odessa, TX",319.0
+"Dallas, TX","Kansas City, MO",461.0
+"Dallas, TX","Orlando, FL",973.0
+"Dallas, TX","Memphis, TN",423.0
+"Dallas, TX","Miami, FL",1109.0
+"Dallas, TX","Milwaukee, WI",850.0
+"Dallas, TX","Minneapolis, MN",853.0
+"Dallas, TX","New Orleans, LA",436.0
+"Dallas, TX","Montrose/Delta, CO",733.0
+"Dallas, TX","Oakland, CA",1468.0
+"Dallas, TX","Omaha, NE",586.0
+"Dallas, TX","Ontario, CA",1200.0
+"Chicago, IL","Dallas, TX",793.0
+"Dallas, TX","Portland, OR",1626.0
+"Dallas, TX","Philadelphia, PA",1295.0
+"Dallas, TX","Phoenix, AZ",879.0
+"Dallas, TX","Pittsburgh, PA",1060.0
+"Dallas, TX","Pensacola, FL",592.0
+"Dallas, TX","Palm Springs, CA",1137.0
+"Dallas, TX","Raleigh/Durham, NC",1052.0
+"Dallas, TX","Fort Myers, FL",1005.0
+"Dallas, TX","San Diego, CA",1182.0
+"Dallas, TX","San Antonio, TX",247.0
+"Dallas, TX","Savannah, GA",914.0
+"Dallas, TX","Louisville, KY",725.0
+"Dallas, TX","San Jose, CA",1450.0
+"Dallas, TX","Salt Lake City, UT",999.0
+"Dallas, TX","Sacramento, CA",1442.0
+"Dallas, TX","Santa Ana, CA",1216.0
+"Dallas, TX","Sarasota/Bradenton, FL",934.0
+"Dallas, TX","St. Louis, MO",546.0
+"Dallas, TX","Tampa, FL",917.0
+"Dallas, TX","Tulsa, OK",238.0
+"Dallas, TX","Valparaiso, FL",630.0
+"Fort Lauderdale, FL","Washington, DC",901.0
+"Houston, TX","Washington, DC",1190.0
+"Milwaukee, WI","Washington, DC",611.0
+"Fort Myers, FL","Washington, DC",891.0
+"Tampa, FL","Washington, DC",811.0
+"Denver, CO","Spokane, WA",836.0
+"Denver, CO","Hayden, CO",141.0
+"Denver, CO","Jacksonville, FL",1447.0
+"Denver, CO","Long Beach, CA",854.0
+"Denver, CO","Montrose/Delta, CO",196.0
+"Denver, CO","Norfolk, VA",1553.0
+"Denver, CO","Pittsburgh, PA",1290.0
+"Denver, CO","Palm Springs, CA",776.0
+"Denver, CO","Reno, NV",804.0
+"Denver, CO","Santa Barbara, CA",916.0
+"Denver, CO","Louisville, KY",1024.0
+"Denver, CO","San Jose, CA",948.0
+"Denver, CO","Sarasota/Bradenton, FL",1531.0
+"Denver, CO","Tucson, AZ",639.0
+"Des Moines, IA","St. Louis, MO",259.0
+"Houston, TX","Panama City, FL",570.0
+"Panama City, FL","St. Louis, MO",634.0
+"El Paso, TX","Houston, TX",667.0
+"El Paso, TX","Los Angeles, CA",715.0
+"El Paso, TX","Phoenix, AZ",347.0
+"El Paso, TX","San Antonio, TX",496.0
+"Fort Lauderdale, FL","Islip, NY",1092.0
+"Fort Lauderdale, FL","Phoenix, AZ",1972.0
+"Fort Lauderdale, FL","Providence, RI",1188.0
+"Fort Lauderdale, FL","San Antonio, TX",1145.0
+"Oakland, CA","Spokane, WA",723.0
+"Sacramento, CA","Spokane, WA",649.0
+"Greer, SC","Houston, TX",837.0
+"Hayden, CO","Houston, TX",985.0
+"Charleston, SC","Houston, TX",925.0
+"Harlingen/San Benito, TX","Houston, TX",295.0
+"Houston, TX","Indianapolis, IN",844.0
+"Houston, TX","Jackson/Vicksburg, MS",351.0
+"Houston, TX","Jacksonville, FL",817.0
+"Houston, TX","Long Beach, CA",1374.0
+"Houston, TX","Midland/Odessa, TX",429.0
+"Houston, TX","Kansas City, MO",643.0
+"Houston, TX","Memphis, TN",468.0
+"Houston, TX","Montrose/Delta, CO",927.0
+"Houston, TX","Oakland, CA",1642.0
+"Houston, TX","Oklahoma City, OK",395.0
+"Houston, TX","Omaha, NE",781.0
+"Houston, TX","Pensacola, FL",489.0
+"Fort Myers, FL","Houston, TX",852.0
+"Houston, TX","San Diego, CA",1303.0
+"Houston, TX","San Antonio, TX",191.0
+"Houston, TX","Savannah, GA",851.0
+"Houston, TX","San Jose, CA",1608.0
+"Houston, TX","San Juan, PR",2007.0
+"Houston, TX","Sacramento, CA",1609.0
+"Houston, TX","Santa Ana, CA",1346.0
+"Houston, TX","Sarasota/Bradenton, FL",796.0
+"Houston, TX","St. Louis, MO",667.0
+"Houston, TX","Tulsa, OK",429.0
+"St. Louis, MO","Wichita, KS",392.0
+"Indianapolis, IN","Phoenix, AZ",1488.0
+"Jackson/Vicksburg, MS","Orlando, FL",588.0
+"Jacksonville, FL","St. Louis, MO",753.0
+"Kona, HI","Las Vegas, NV",2717.0
+"Kona, HI","Oakland, CA",2378.0
+"Kona, HI","San Diego, CA",2556.0
+"Kona, HI","San Jose, CA",2384.0
+"Las Vegas, NV","Lubbock, TX",775.0
+"Las Vegas, NV","Long Beach, CA",231.0
+"Las Vegas, NV","Midland/Odessa, TX",795.0
+"Las Vegas, NV","Palm Springs, CA",173.0
+"Las Vegas, NV","Santa Barbara, CA",289.0
+"Las Vegas, NV","San Jose, CA",386.0
+"Los Angeles, CA","Phoenix, AZ",370.0
+"Los Angeles, CA","Sacramento, CA",373.0
+"Los Angeles, CA","Tucson, AZ",451.0
+"Kansas City, MO","New York, NY",1113.0
+"New York, NY","St. Louis, MO",888.0
+"Long Beach, CA","Oakland, CA",353.0
+"Long Beach, CA","Phoenix, AZ",355.0
+"Long Beach, CA","Reno, NV",402.0
+"Long Beach, CA","San Jose, CA",324.0
+"Long Beach, CA","Sacramento, CA",387.0
+"Long Beach, CA","St. Louis, MO",1581.0
+"Lihue, HI","Phoenix, AZ",2979.0
+"Lihue, HI","San Diego, CA",2676.0
+"Lihue, HI","San Jose, CA",2466.0
+"Little Rock, AR","Phoenix, AZ",1136.0
+"Little Rock, AR","St. Louis, MO",296.0
+"Kansas City, MO","New Orleans, LA",689.0
+"Kansas City, MO","Oakland, CA",1489.0
+"Kansas City, MO","Portland, OR",1482.0
+"Kansas City, MO","Phoenix, AZ",1044.0
+"Kansas City, MO","St. Louis, MO",237.0
+"Oklahoma City, OK","Orlando, FL",1069.0
+"Chicago, IL","Oakland, CA",1836.0
+"Chicago, IL","Philadelphia, PA",678.0
+"Chicago, IL","San Diego, CA",1723.0
+"Memphis, TN","Tampa, FL",655.0
+"Milwaukee, WI","St. Louis, MO",317.0
+"New Orleans, LA","Phoenix, AZ",1300.0
+"New Orleans, LA","San Diego, CA",1599.0
+"New Orleans, LA","San Antonio, TX",494.0
+"New Orleans, LA","St. Louis, MO",604.0
+"Oakland, CA","Ontario, CA",362.0
+"Oakland, CA","Palm Springs, CA",418.0
+"Oakland, CA","Reno, NV",181.0
+"Oakland, CA","San Diego, CA",446.0
+"Oakland, CA","Santa Barbara, CA",263.0
+"Kahului, HI","Phoenix, AZ",2845.0
+"Oklahoma City, OK","Phoenix, AZ",833.0
+"Oklahoma City, OK","St. Louis, MO",462.0
+"Omaha, NE","Washington, DC",1012.0
+"Omaha, NE","Tampa, FL",1190.0
+"Ontario, CA","San Jose, CA",333.0
+"Phoenix, AZ","Portland, OR",1009.0
+"Portland, OR","St. Louis, MO",1708.0
+"Palm Springs, CA","Phoenix, AZ",261.0
+"Phoenix, AZ","Reno, NV",601.0
+"Phoenix, AZ","San Antonio, TX",843.0
+"Louisville, KY","Phoenix, AZ",1506.0
+"Phoenix, AZ","San Jose, CA",621.0
+"Phoenix, AZ","Tampa, FL",1788.0
+"Houston, TX","Pittsburgh, PA",1117.0
+"Pensacola, FL","St. Louis, MO",598.0
+"Palm Springs, CA","Sacramento, CA",439.0
+"Phoenix, AZ","Raleigh/Durham, NC",1891.0
+"Reno, NV","San Diego, CA",488.0
+"Reno, NV","San Jose, CA",188.0
+"Reno, NV","Santa Ana, CA",415.0
+"Kansas City, MO","San Diego, CA",1334.0
+"San Antonio, TX","San Diego, CA",1129.0
+"San Diego, CA","St. Louis, MO",1557.0
+"San Diego, CA","Tucson, AZ",368.0
+"San Antonio, TX","St. Louis, MO",786.0
+"San Antonio, TX","Tampa, FL",972.0
+"Chicago, IL","Savannah, GA",773.0
+"Dallas, TX","Seattle, WA",1670.0
+"Seattle, WA","St. Louis, MO",1709.0
+"San Francisco, CA","St. Louis, MO",1735.0
+"San Jose, CA","Santa Ana, CA",342.0
+"San Jose, CA","St. Louis, MO",1715.0
+"San Juan, PR","St. Louis, MO",2024.0
+"Chicago, IL","Sacramento, CA",1781.0
+"Sacramento, CA","St. Louis, MO",1679.0
+"Santa Ana, CA","St. Louis, MO",1569.0
+"Kansas City, MO","Sarasota/Bradenton, FL",1078.0
+"Sarasota/Bradenton, FL","St. Louis, MO",903.0
+"Oakland, CA","St. Louis, MO",1725.0
+"Omaha, NE","St. Louis, MO",342.0
+"Pittsburgh, PA","St. Louis, MO",554.0
+"Raleigh/Durham, NC","St. Louis, MO",667.0
+"St. Louis, MO","Tulsa, OK",351.0
+"Houston, TX","Tucson, AZ",936.0
+"Albany, NY","Chicago, IL",723.0
+"Austin, TX","Columbus, OH",1073.0
+"Austin, TX","Harlingen/San Benito, TX",273.0
+"Austin, TX","Pittsburgh, PA",1210.0
+"Burbank, CA","Chicago, IL",1740.0
+"Baltimore, MD","Grand Rapids, MI",528.0
+"Bozeman, MT","San Diego, CA",956.0
+"Bozeman, MT","Santa Ana, CA",908.0
+"Charlotte, NC","Chicago, IL",599.0
+"Colorado Springs, CO","Houston, TX",809.0
+"Chicago, IL","Colorado Springs, CO",911.0
+"Dallas, TX","Reno, NV",1356.0
+"Denver, CO","Panama City, FL",1250.0
+"Denver, CO","Wichita, KS",420.0
+"Denver, CO","Midland/Odessa, TX",563.0
+"Denver, CO","Richmond, VA",1482.0
+"Cincinnati, OH","Houston, TX",871.0
+"Houston, TX","Lubbock, TX",475.0
+"Houston, TX","Milwaukee, WI",984.0
+"Houston, TX","Ontario, CA",1334.0
+"Houston, TX","Reno, NV",1530.0
+"Kona, HI","Phoenix, AZ",2860.0
+"Kona, HI","Sacramento, CA",2435.0
+"Las Vegas, NV","Lihue, HI",2818.0
+"Chicago, IL","Long Beach, CA",1741.0
+"Chicago, IL","Manchester, NH",843.0
+"Chicago, IL","Myrtle Beach, SC",753.0
+"Chicago, IL","Ontario, CA",1706.0
+"Chicago, IL","Palm Springs, CA",1651.0
+"Chicago, IL","Providence, RI",849.0
+"Chicago, IL","San Francisco, CA",1846.0
+"Chicago, IL","San Jose, CA",1829.0
+"Chicago, IL","Santa Ana, CA",1726.0
+"Memphis, TN","Phoenix, AZ",1264.0
+"Milwaukee, WI","Sarasota/Bradenton, FL",1113.0
+"Chicago, IL","Tucson, AZ",1437.0
+"Oakland, CA","Tucson, AZ",747.0
+"Chicago, IL","Oklahoma City, OK",693.0
+"Albuquerque, NM","Burbank, CA",672.0
+"Albany, NY","Fort Myers, FL",1205.0
+"Oklahoma City, OK","Tampa, FL",1023.0
+"Richmond, VA","Tampa, FL",723.0
+"Fort Myers, FL","Rochester, NY",1166.0
+"Chicago, IL","West Palm Beach/Palm Beach, FL",1144.0
+"Nashville, TN","Omaha, NE",612.0
+"Boston, MA","Kansas City, MO",1256.0
+"Kansas City, MO","San Antonio, TX",706.0
+"Charlotte, NC","Newark, NJ",529.0
+"Key West, FL","Washington, DC",1023.0
+"Newark, NJ","Raleigh/Durham, NC",416.0
+"Buffalo, NY","Newark, NJ",282.0
+"Newark, NJ","Sarasota/Bradenton, FL",1034.0
+"Newark, NJ","Norfolk, VA",284.0
+"Newark, NJ","Providence, RI",160.0
+"Chicago, IL","Portland, ME",895.0
+"Jacksonville, FL","Newark, NJ",820.0
+"Key West, FL","Newark, NJ",1196.0
+"Louisville, KY","Newark, NJ",642.0
+"Fayetteville, AR","Newark, NJ",1131.0
+"Memphis, TN","Newark, NJ",946.0
+"Newark, NJ","Pittsburgh, PA",319.0
+"Charleston, SC","Newark, NJ",628.0
+"Newark, NJ","Rochester, NY",246.0
+"Albany, NY","Newark, NJ",143.0
+"Indianapolis, IN","Newark, NJ",645.0
+"Columbus, OH","Newark, NJ",463.0
+"Madison, WI","Newark, NJ",799.0
+"Boston, MA","Newark, NJ",200.0
+"Newark, NJ","Portland, ME",284.0
+"Milwaukee, WI","Newark, NJ",725.0
+"Greer, SC","Newark, NJ",594.0
+"Greensboro/High Point, NC","Newark, NJ",445.0
+"Boston, MA","Washington, DC",399.0
+"Cleveland, OH","Newark, NJ",404.0
+"Newark, NJ","Washington, DC",212.0
+"Chicago, IL","Duluth, MN",397.0
+"Burlington, VT","Newark, NJ",266.0
+"Grand Rapids, MI","Newark, NJ",605.0
+"Newark, NJ","Syracuse, NY",195.0
+"Washington, DC","West Palm Beach/Palm Beach, FL",857.0
+"Kansas City, MO","Newark, NJ",1092.0
+"Newark, NJ","St. Louis, MO",872.0
+"Chicago, IL","Kalispell, MT",1352.0
+"Manchester, NH","Newark, NJ",209.0
+"Newark, NJ","Richmond, VA",277.0
+"Columbus, OH","Detroit, MI",155.0
+"New York, NY","Pensacola, FL",1030.0
+"Boston, MA","Charlotte, NC",728.0
+"Charlotte, NC","New York, NY",541.0
+"Boston, MA","Charleston, SC",818.0
+"Columbus, OH","New York, NY",479.0
+"Boston, MA","Indianapolis, IN",818.0
+"Boston, MA","Pittsburgh, PA",496.0
+"Jacksonville, FL","New York, NY",828.0
+"Boston, MA","Jacksonville, FL",1010.0
+"Indianapolis, IN","New York, NY",665.0
+"New York, NY","Pittsburgh, PA",335.0
+"Boston, MA","Raleigh/Durham, NC",612.0
+"New York, NY","Omaha, NE",1148.0
+"New York, NY","Washington, DC",229.0
+"Louisville, KY","New York, NY",659.0
+"Detroit, MI","Pittsburgh, PA",201.0
+"Boston, MA","Columbus, OH",640.0
+"Boston, MA","Philadelphia, PA",280.0
+"Key West, FL","New York, NY",1201.0
+"Atlanta, GA","Hilton Head, SC",238.0
+"Madison, WI","New York, NY",812.0
+"Madison, WI","Washington, DC",707.0
+"Detroit, MI","Lexington, KY",296.0
+"Charleston, SC","New York, NY",636.0
+"Lexington, KY","Washington, DC",392.0
+"Boston, MA","Richmond, VA",474.0
+"Boston, MA","Cleveland, OH",563.0
+"Cleveland, OH","New York, NY",425.0
+"Albany, NY","Miami, FL",1225.0
+"Burlington, VT","Miami, FL",1348.0
+"Miami, FL","Tulsa, OK",1168.0
+"Charlotte, NC","Key West, FL",736.0
+"New York, NY","Norfolk, VA",296.0
+"New York, NY","Richmond, VA",292.0
+"New York, NY","Oklahoma City, OK",1341.0
+"New York, NY","Wilmington, NC",500.0
+"Pittsburgh, PA","Raleigh/Durham, NC",328.0
+"Charlottesville, VA","New York, NY",305.0
+"Cincinnati, OH","New York, NY",589.0
+"Greensboro/High Point, NC","New York, NY",461.0
+"New York, NY","Philadelphia, PA",94.0
+"Memphis, TN","New York, NY",963.0
+"New York, NY","Roanoke, VA",405.0
+"Key West, FL","Philadelphia, PA",1121.0
+"Greensboro/High Point, NC","Philadelphia, PA",365.0
+"Dayton, OH","New York, NY",549.0
+"Austin, TX","Philadelphia, PA",1430.0
+"New York, NY","Worcester, MA",146.0
+"Louisville, KY","Philadelphia, PA",576.0
+"Charlotte, NC","Hilton Head, SC",207.0
+"Fayetteville, AR","New York, NY",1147.0
+"Knoxville, TN","New York, NY",647.0
+"Minneapolis, MN","Wichita, KS",545.0
+"Detroit, MI","Knoxville, TN",443.0
+"Minneapolis, MN","Moline, IL",274.0
+"Bangor, ME","New York, NY",382.0
+"Atlanta, GA","Charlottesville, VA",457.0
+"Burlington, VT","New York, NY",258.0
+"Allentown/Bethlehem/Easton, PA","Atlanta, GA",692.0
+"Detroit, MI","Richmond, VA",456.0
+"Atlanta, GA","Brunswick, GA",238.0
+"Atlanta, GA","Shreveport, LA",551.0
+"Bangor, ME","Boston, MA",201.0
+"Atlanta, GA","Wilmington, NC",377.0
+"Atlanta, GA","Lafayette, LA",503.0
+"Atlanta, GA","South Bend, IN",566.0
+"Milwaukee, WI","New York, NY",745.0
+"Cincinnati, OH","Detroit, MI",229.0
+"Cedar Rapids/Iowa City, IA","Minneapolis, MN",220.0
+"Atlanta, GA","Fort Wayne, IN",508.0
+"Detroit, MI","Green Bay, WI",287.0
+"Atlanta, GA","Charleston/Dunbar, WV",363.0
+"Atlanta, GA","Valdosta, GA",208.0
+"Cedar Rapids/Iowa City, IA","Detroit, MI",430.0
+"New York, NY","Savannah, GA",718.0
+"New York, NY","Portland, ME",273.0
+"Bismarck/Mandan, ND","Minneapolis, MN",386.0
+"Columbia, SC","New York, NY",617.0
+"Buffalo, NY","New York, NY",301.0
+"Atlanta, GA","Bristol/Johnson City/Kingsport, TN",227.0
+"New York, NY","Rochester, NY",254.0
+"Atlanta, GA","Rochester, MN",831.0
+"Atlanta, GA","Jacksonville/Camp Lejeune, NC",399.0
+"Atlanta, GA","Bloomington/Normal, IL",533.0
+"Atlanta, GA","Mobile, AL",302.0
+"Atlanta, GA","Cedar Rapids/Iowa City, IA",694.0
+"Detroit, MI","Huntsville, AL",554.0
+"Duluth, MN","Minneapolis, MN",144.0
+"Des Moines, IA","Detroit, MI",533.0
+"Atlanta, GA","Evansville, IN",350.0
+"Atlanta, GA","Augusta, GA",143.0
+"Allentown/Bethlehem/Easton, PA","Detroit, MI",425.0
+"Appleton, WI","Detroit, MI",296.0
+"Green Bay, WI","Minneapolis, MN",252.0
+"Detroit, MI","Traverse City, MI",207.0
+"New York, NY","Syracuse, NY",209.0
+"Birmingham, AL","New York, NY",866.0
+"Detroit, MI","Lansing, MI",74.0
+"Albany, NY","New York, NY",136.0
+"Grand Rapids, MI","New York, NY",618.0
+"New York, NY","Providence, RI",143.0
+"Grand Forks, ND","Minneapolis, MN",284.0
+"Fayetteville, AR","Minneapolis, MN",596.0
+"Atlanta, GA","Columbus, MS",241.0
+"Greer, SC","New York, NY",610.0
+"Detroit, MI","Kalamazoo, MI",113.0
+"Albany, GA","Atlanta, GA",145.0
+"Atlanta, GA","Dothan, AL",170.0
+"Minneapolis, MN","Mosinee, WI",175.0
+"Detroit, MI","Saginaw/Bay City/Midland, MI",98.0
+"Des Moines, IA","Minneapolis, MN",232.0
+"Atlanta, GA","Moline, IL",633.0
+"Minneapolis, MN","Minot, ND",449.0
+"Detroit, MI","Greensboro/High Point, NC",460.0
+"Atlanta, GA","Columbus, GA",83.0
+"Alexandria, LA","Atlanta, GA",500.0
+"Atlanta, GA","Monroe, LA",448.0
+"Appleton, WI","Minneapolis, MN",236.0
+"Cincinnati, OH","Minneapolis, MN",596.0
+"Detroit, MI","Rochester, NY",296.0
+"Detroit, MI","Harrisburg, PA",371.0
+"Atlanta, GA","Montgomery, AL",147.0
+"Chattanooga, TN","Detroit, MI",505.0
+"Minneapolis, MN","Rochester, MN",76.0
+"Detroit, MI","Louisville, KY",306.0
+"Detroit, MI","Mosinee, WI",363.0
+"Des Moines, IA","New York, NY",1031.0
+"Columbus, OH","Minneapolis, MN",626.0
+"Burlington, VT","Detroit, MI",537.0
+"Boston, MA","Norfolk, VA",468.0
+"Dayton, OH","Detroit, MI",166.0
+"Detroit, MI","Ithaca/Cortland, NY",353.0
+"Boston, MA","Milwaukee, WI",860.0
+"Minneapolis, MN","Pittsburgh, PA",726.0
+"Binghamton, NY","Detroit, MI",378.0
+"Huntsville, AL","Indianapolis, IN",351.0
+"Birmingham, AL","Indianapolis, IN",425.0
+"Dallas/Fort Worth, TX","Honolulu, HI",3784.0
+"Dallas/Fort Worth, TX","Kahului, HI",3711.0
+"Dallas/Fort Worth, TX","San Juan, PR",2165.0
+"Charlotte, NC","Honolulu, HI",4678.0
+"Dallas/Fort Worth, TX","Kona, HI",3724.0
+"Los Angeles, CA","Miami, FL",2342.0
+"Dallas/Fort Worth, TX","Spokane, WA",1477.0
+"Miami, FL","Seattle, WA",2724.0
+"Charlotte Amalie, VI","Chicago, IL",2116.0
+"Charlotte, NC","Phoenix, AZ",1773.0
+"Charlotte, NC","Miami, FL",650.0
+"Cleveland, OH","Dallas/Fort Worth, TX",1021.0
+"Dallas/Fort Worth, TX","Santa Ana, CA",1205.0
+"Charlotte, NC","Los Angeles, CA",2125.0
+"Dallas/Fort Worth, TX","San Jose, CA",1438.0
+"Miami, FL","Washington, DC",921.0
+"Miami, FL","San Francisco, CA",2585.0
+"Dallas/Fort Worth, TX","San Antonio, TX",247.0
+"Dallas/Fort Worth, TX","Jacksonville, FL",918.0
+"Albuquerque, NM","Dallas/Fort Worth, TX",569.0
+"Dallas/Fort Worth, TX","Washington, DC",1172.0
+"Dallas/Fort Worth, TX","Pittsburgh, PA",1067.0
+"Charlotte Amalie, VI","Miami, FL",1107.0
+"Boston, MA","Phoenix, AZ",2300.0
+"New York, NY","Santa Ana, CA",2454.0
+"Charlotte, NC","Dallas/Fort Worth, TX",936.0
+"Philadelphia, PA","San Diego, CA",2370.0
+"Austin, TX","Charlotte, NC",1032.0
+"Dallas/Fort Worth, TX","Eugene, OR",1606.0
+"Charlotte, NC","Tampa, FL",507.0
+"Dallas/Fort Worth, TX","Sacramento, CA",1431.0
+"Miami, FL","Phoenix, AZ",1972.0
+"Philadelphia, PA","Phoenix, AZ",2075.0
+"Charlotte, NC","Fort Myers, FL",600.0
+"Charlotte, NC","San Juan, PR",1475.0
+"Charlotte Amalie, VI","Dallas/Fort Worth, TX",2225.0
+"Phoenix, AZ","Washington, DC",1956.0
+"Fresno, CA","Phoenix, AZ",493.0
+"Eagle, CO","New York, NY",1739.0
+"Dallas/Fort Worth, TX","Key West, FL",1089.0
+"Charlotte, NC","San Francisco, CA",2296.0
+"Chicago, IL","Jackson, WY",1162.0
+"Miami, FL","San Antonio, TX",1143.0
+"Dallas/Fort Worth, TX","Raleigh/Durham, NC",1061.0
+"Charlotte Amalie, VI","Charlotte, NC",1520.0
+"Charlotte, NC","San Diego, CA",2077.0
+"Dallas/Fort Worth, TX","Santa Barbara, CA",1316.0
+"Charlotte, NC","West Palm Beach/Palm Beach, FL",590.0
+"Dallas/Fort Worth, TX","Fresno, CA",1313.0
+"Dallas/Fort Worth, TX","Palm Springs, CA",1126.0
+"Dallas/Fort Worth, TX","Sarasota/Bradenton, FL",945.0
+"Charlotte, NC","Portland, ME",813.0
+"Dallas/Fort Worth, TX","Richmond, VA",1158.0
+"Dallas/Fort Worth, TX","Tucson, AZ",813.0
+"Dallas/Fort Worth, TX","Reno, NV",1345.0
+"Phoenix, AZ","Tucson, AZ",110.0
+"Dallas/Fort Worth, TX","Hartford, CT",1471.0
+"Dallas/Fort Worth, TX","Fort Myers, FL",1017.0
+"Bozeman, MT","Dallas/Fort Worth, TX",1163.0
+"Charlotte, NC","Seattle, WA",2279.0
+"Dallas/Fort Worth, TX","Syracuse, NY",1336.0
+"Dallas/Fort Worth, TX","Eagle, CO",721.0
+"Eagle, CO","Miami, FL",1810.0
+"Charlotte, NC","Jackson, WY",1685.0
+"Newark, NJ","Phoenix, AZ",2133.0
+"Charlotte, NC","San Antonio, TX",1095.0
+"Austin, TX","San Juan, PR",2146.0
+"Eagle, CO","Philadelphia, PA",1678.0
+"Madison, WI","Phoenix, AZ",1396.0
+"Jackson, WY","New York, NY",1887.0
+"Christiansted, VI","Miami, FL",1139.0
+"Dallas/Fort Worth, TX","Jackson, WY",1047.0
+"Bozeman, MT","Charlotte, NC",1736.0
+"Dallas/Fort Worth, TX","Milwaukee, WI",853.0
+"Charlotte, NC","Houston, TX",912.0
+"Dallas/Fort Worth, TX","West Palm Beach/Palm Beach, FL",1102.0
+"Charlotte, NC","Portland, OR",2282.0
+"Dallas/Fort Worth, TX","Gunnison, CO",678.0
+"Dallas/Fort Worth, TX","Hayden, CO",769.0
+"Philadelphia, PA","Seattle, WA",2378.0
+"Charlotte, NC","Christiansted, VI",1562.0
+"Charlotte Amalie, VI","Philadelphia, PA",1605.0
+"Las Vegas, NV","Washington, DC",2065.0
+"Burbank, CA","Dallas/Fort Worth, TX",1231.0
+"Charlotte, NC","Sacramento, CA",2244.0
+"Dallas/Fort Worth, TX","Norfolk, VA",1212.0
+"Miami, FL","San Diego, CA",2267.0
+"Philadelphia, PA","San Francisco, CA",2521.0
+"Charlotte, NC","Montgomery, AL",372.0
+"Newport News/Williamsburg, VA","Philadelphia, PA",201.0
+"Charlotte, NC","Greenville, NC",203.0
+"Philadelphia, PA","Richmond, VA",198.0
+"Harrisburg, PA","Philadelphia, PA",84.0
+"Asheville, NC","Philadelphia, PA",504.0
+"Boston, MA","Rochester, NY",343.0
+"Charlotte, NC","Evansville, IN",414.0
+"Philadelphia, PA","Watertown, NY",287.0
+"Philadelphia, PA","Roanoke, VA",311.0
+"Charlotte, NC","Salisbury, MD",371.0
+"Boston, MA","Harrisburg, PA",335.0
+"Charlotte, NC","Mobile, AL",526.0
+"Charlotte, NC","Roanoke, VA",155.0
+"Charlotte, NC","Florence, SC",99.0
+"Albany, NY","Philadelphia, PA",212.0
+"Philadelphia, PA","Syracuse, NY",228.0
+"Philadelphia, PA","Rochester, NY",257.0
+"Islip, NY","Philadelphia, PA",130.0
+"Philadelphia, PA","State College, PA",153.0
+"Ashland, WV","Charlotte, NC",235.0
+"Philadelphia, PA","Salisbury, MD",107.0
+"Philadelphia, PA","Wilmington, NC",413.0
+"Boston, MA","Syracuse, NY",265.0
+"Akron, OH","Philadelphia, PA",335.0
+"Fort Wayne, IN","Philadelphia, PA",530.0
+"Lexington, KY","Philadelphia, PA",520.0
+"Philadelphia, PA","Worcester, MA",241.0
+"Columbia, SC","Philadelphia, PA",523.0
+"Newark, NJ","Seattle, WA",2402.0
+"Newark, NJ","Portland, OR",2434.0
+"Boston, MA","Portland, OR",2537.0
+"Anchorage, AK","Bethel, AK",399.0
+"Anchorage, AK","Kodiak, AK",253.0
+"Anchorage, AK","Barrow, AK",725.0
+"Ontario, CA","Portland, OR",838.0
+"Juneau, AK","Ketchikan, AK",234.0
+"Ketchikan, AK","Seattle, WA",680.0
+"Juneau, AK","Sitka, AK",95.0
+"Anchorage, AK","Juneau, AK",571.0
+"Ketchikan, AK","Sitka, AK",183.0
+"Juneau, AK","Seattle, WA",909.0
+"Fort Lauderdale, FL","Seattle, WA",2717.0
+"Anchorage, AK","Portland, OR",1542.0
+"Anchorage, AK","Chicago, IL",2846.0
+"Anchorage, AK","Los Angeles, CA",2345.0
+"Anchorage, AK","Kotzebue, AK",548.0
+"Anchorage, AK","Phoenix, AZ",2552.0
+"Adak Island, AK","Anchorage, AK",1192.0
+"Portland, OR","Tampa, FL",2497.0
+"Los Angeles, CA","Newark, NJ",2454.0
+"Newark, NJ","San Francisco, CA",2565.0
+"Dallas, TX","San Francisco, CA",1476.0
+"Fort Lauderdale, FL","Portland, OR",2694.0
+"Fort Lauderdale, FL","San Francisco, CA",2584.0
+"Milwaukee, WI","Seattle, WA",1694.0
+"Fort Myers, FL","Los Angeles, CA",2238.0
+"Pittsburgh, PA","Seattle, WA",2125.0
+"Fort Myers, FL","Seattle, WA",2623.0
+"Fort Lauderdale, FL","San Diego, CA",2269.0
+"San Antonio, TX","Seattle, WA",1774.0
+"Indianapolis, IN","Seattle, WA",1866.0
+"Ontario, CA","Seattle, WA",956.0
+"Houston, TX","Seattle, WA",1874.0
+"San Francisco, CA","Tampa, FL",2393.0
+"Omaha, NE","Seattle, WA",1368.0
+"Anchorage, AK","Las Vegas, NV",2304.0
+"Orlando, FL","Portland, OR",2534.0
+"New Orleans, LA","Seattle, WA",2086.0
+"Orlando, FL","San Diego, CA",2149.0
+"Portland, OR","Washington, DC",2327.0
+"Newark, NJ","San Diego, CA",2425.0
+"Kona, HI","Portland, OR",2607.0
+"Anchorage, AK","Honolulu, HI",2777.0
+"Lihue, HI","Portland, OR",2631.0
+"Anchorage, AK","Kona, HI",2874.0
+"Burbank, CA","Seattle, WA",937.0
+"Columbus, OH","Seattle, WA",2016.0
+"San Francisco, CA","Washington, DC",2419.0
+"Albuquerque, NM","Seattle, WA",1180.0
+"Orlando, FL","San Francisco, CA",2446.0
+"Oklahoma City, OK","Seattle, WA",1519.0
+"Anchorage, AK","Cordova, AK",160.0
+"Juneau, AK","Petersburg, AK",123.0
+"Ketchikan, AK","Wrangell, AK",82.0
+"Petersburg, AK","Wrangell, AK",31.0
+"Kotzebue, AK","Nome, AK",183.0
+"Anchorage, AK","Nome, AK",539.0
+"Burbank, CA","Portland, OR",817.0
+"Baltimore, MD","Seattle, WA",2335.0
+"Boston, MA","San Diego, CA",2588.0
+"Austin, TX","San Francisco, CA",1504.0
+"Anchorage, AK","Deadhorse, AK",626.0
+"Cordova, AK","Yakutat, AK",213.0
+"Charleston, SC","Seattle, WA",2415.0
+"Anchorage, AK","Kahului, HI",2797.0
+"Juneau, AK","Yakutat, AK",198.0
+"Portland, OR","Tucson, AZ",1119.0
+"Austin, TX","Portland, OR",1715.0
+"Burbank, CA","New York, NY",2465.0
+"Aguadilla, PR","New York, NY",1576.0
+"Charlotte Amalie, VI","San Juan, PR",68.0
+"Boston, MA","San Antonio, TX",1764.0
+"Boston, MA","Savannah, GA",901.0
+"Fort Lauderdale, FL","Hayden, CO",1843.0
+"Albuquerque, NM","New York, NY",1826.0
+"New York, NY","Reno, NV",2411.0
+"Albany, NY","Fort Lauderdale, FL",1204.0
+"New York, NY","Sacramento, CA",2521.0
+"Fort Lauderdale, FL","Jacksonville, FL",319.0
+"Boston, MA","Bozeman, MT",1991.0
+"Hartford, CT","San Juan, PR",1666.0
+"New York, NY","Ontario, CA",2429.0
+"Boston, MA","New Orleans, LA",1368.0
+"Orlando, FL","White Plains, NY",972.0
+"Tampa, FL","White Plains, NY",1032.0
+"Aguadilla, PR","Newark, NJ",1585.0
+"West Palm Beach/Palm Beach, FL","White Plains, NY",1056.0
+"New York, NY","San Jose, CA",2569.0
+"Fort Lauderdale, FL","White Plains, NY",1097.0
+"Boston, MA","Buffalo, NY",395.0
+"New York, NY","San Antonio, TX",1587.0
+"New York, NY","Ponce, PR",1617.0
+"Orlando, FL","Ponce, PR",1179.0
+"Bozeman, MT","New York, NY",1902.0
+"Fort Myers, FL","White Plains, NY",1102.0
+"Charleston, SC","Fort Lauderdale, FL",470.0
+"Hartford, CT","West Palm Beach/Palm Beach, FL",1133.0
+"Providence, RI","West Palm Beach/Palm Beach, FL",1148.0
+"San Juan, PR","Washington, DC",1571.0
+"Bozeman, MT","Fort Lauderdale, FL",2183.0
+"New York, NY","Palm Springs, CA",2378.0
+"Los Angeles, CA","West Palm Beach/Palm Beach, FL",2330.0
+"Fort Lauderdale, FL","Worcester, MA",1211.0
+"Boston, MA","Key West, FL",1373.0
+"Hartford, CT","Las Vegas, NV",2297.0
+"Charleston, SC","Los Angeles, CA",2206.0
+"Charlotte Amalie, VI","Newark, NJ",1634.0
+"Boston, MA","Palm Springs, CA",2517.0
+"Boston, MA","Hayden, CO",1871.0
+"Jacksonville, FL","Los Angeles, CA",2153.0
+"Hartford, CT","San Francisco, CA",2625.0
+"Fort Lauderdale, FL","Palm Springs, CA",2233.0
+"Buffalo, NY","Los Angeles, CA",2218.0
+"Bozeman, MT","Los Angeles, CA",902.0
+"Hartford, CT","Los Angeles, CA",2527.0
+"Los Angeles, CA","Oklahoma City, OK",1187.0
+"Fayetteville, AR","Los Angeles, CA",1371.0
+"Dallas/Fort Worth, TX","Yuma, AZ",1022.0
+"Aspen, CO","Austin, TX",812.0
+"Aspen, CO","Dallas/Fort Worth, TX",701.0
+"Phoenix, AZ","Yuma, AZ",160.0
+"Aspen, CO","Los Angeles, CA",737.0
+"Aspen, CO","Phoenix, AZ",491.0
+"Flagstaff, AZ","Phoenix, AZ",119.0
+"Bristol/Johnson City/Kingsport, TN","Dallas/Fort Worth, TX",868.0
+"Dallas/Fort Worth, TX","Santa Fe, NM",551.0
+"Chicago, IL","White Plains, NY",738.0
+"Dallas/Fort Worth, TX","Durango, CO",674.0
+"Bakersfield, CA","Phoenix, AZ",425.0
+"Eagle, CO","Los Angeles, CA",748.0
+"Dallas/Fort Worth, TX","Flagstaff, AZ",853.0
+"Phoenix, AZ","Santa Fe, NM",370.0
+"Phoenix, AZ","San Luis Obispo, CA",509.0
+"Aspen, CO","Chicago, IL",1013.0
+"Columbia, MO","Dallas/Fort Worth, TX",490.0
+"Durango, CO","Phoenix, AZ",351.0
+"Dallas/Fort Worth, TX","South Bend, IN",846.0
+"Columbus, GA","Dallas/Fort Worth, TX",705.0
+"Dallas/Fort Worth, TX","Idaho Falls, ID",1095.0
+"Chicago, IL","Eagle, CO",1007.0
+"Jackson, WY","Los Angeles, CA",784.0
+"Arcata/Eureka, CA","Phoenix, AZ",845.0
+"Bismarck/Mandan, ND","Dallas/Fort Worth, TX",977.0
+"Dallas/Fort Worth, TX","Fort Wayne, IN",859.0
+"Phoenix, AZ","Santa Barbara, CA",455.0
+"Bend/Redmond, OR","Phoenix, AZ",893.0
+"Phoenix, AZ","Roswell, NM",433.0
+"Montrose/Delta, CO","Phoenix, AZ",419.0
+"Phoenix, AZ","St. George, UT",262.0
+"Los Angeles, CA","Montrose/Delta, CO",666.0
+"Eagle, CO","Phoenix, AZ",513.0
+"Chicago, IL","Harlingen/San Benito, TX",1219.0
+"Medford, OR","Salt Lake City, UT",575.0
+"Idaho Falls, ID","Salt Lake City, UT",188.0
+"Minneapolis, MN","Rapid City, SD",489.0
+"Minneapolis, MN","Pasco/Kennewick/Richland, WA",1254.0
+"Cleveland, OH","Minneapolis, MN",622.0
+"Detroit, MI","Memphis, TN",610.0
+"Detroit, MI","Omaha, NE",651.0
+"Minneapolis, MN","Omaha, NE",282.0
+"Detroit, MI","Norfolk, VA",529.0
+"Lewiston, ID","Salt Lake City, UT",461.0
+"Detroit, MI","Marquette, MI",349.0
+"Oklahoma City, OK","Salt Lake City, UT",866.0
+"Eugene, OR","Salt Lake City, UT",618.0
+"Albuquerque, NM","Salt Lake City, UT",493.0
+"Salt Lake City, UT","Sun Valley/Hailey/Ketchum, ID",222.0
+"Omaha, NE","Salt Lake City, UT",840.0
+"Pasco/Kennewick/Richland, WA","Salt Lake City, UT",521.0
+"Fresno, CA","Salt Lake City, UT",501.0
+"Helena, MT","Salt Lake City, UT",402.0
+"Los Angeles, CA","San Diego, CA",109.0
+"Minneapolis, MN","Oklahoma City, OK",694.0
+"Detroit, MI","White Plains, NY",505.0
+"Salt Lake City, UT","Tulsa, OK",926.0
+"Detroit, MI","South Bend, IN",157.0
+"Memphis, TN","Minneapolis, MN",700.0
+"Minneapolis, MN","South Bend, IN",411.0
+"Detroit, MI","Greer, SC",508.0
+"Salt Lake City, UT","Tucson, AZ",601.0
+"Bend/Redmond, OR","Salt Lake City, UT",525.0
+"Des Moines, IA","Salt Lake City, UT",955.0
+"Missoula, MT","Salt Lake City, UT",436.0
+"Detroit, MI","Elmira/Corning, NY",332.0
+"Palm Springs, CA","Salt Lake City, UT",541.0
+"Louisville, KY","Minneapolis, MN",604.0
+"Aspen, CO","Atlanta, GA",1304.0
+"Escanaba, MI","Minneapolis, MN",304.0
+"International Falls, MN","Minneapolis, MN",255.0
+"Salt Lake City, UT","Twin Falls, ID",175.0
+"Salt Lake City, UT","St. George, UT",272.0
+"Iron Mountain/Kingsfd, MI","Minneapolis, MN",257.0
+"Elko, NV","Salt Lake City, UT",200.0
+"Aberdeen, SD","Minneapolis, MN",257.0
+"Detroit, MI","Pellston, MI",243.0
+"Detroit, MI","Sault Ste. Marie, MI",284.0
+"Hibbing, MN","Minneapolis, MN",174.0
+"Minneapolis, MN","Williston, ND",553.0
+"Detroit, MI","Escanaba, MI",306.0
+"Brainerd, MN","Minneapolis, MN",114.0
+"Bemidji, MN","Minneapolis, MN",199.0
+"Minneapolis, MN","Rhinelander, WI",190.0
+"Casper, WY","Salt Lake City, UT",320.0
+"Butte, MT","Salt Lake City, UT",358.0
+"Cedar City, UT","Salt Lake City, UT",221.0
+"Detroit, MI","Iron Mountain/Kingsfd, MI",344.0
+"Minneapolis, MN","Sault Ste. Marie, MI",435.0
+"Pocatello, ID","Salt Lake City, UT",150.0
+"Alpena, MI","Detroit, MI",198.0
+"Birmingham, AL","Detroit, MI",625.0
+"Grand Junction, CO","Salt Lake City, UT",216.0
+"Lincoln, NE","Minneapolis, MN",331.0
+"Colorado Springs, CO","Salt Lake City, UT",411.0
+"Great Falls, MT","Salt Lake City, UT",463.0
+"Minneapolis, MN","Richmond, VA",970.0
+"Fort Wayne, IN","Minneapolis, MN",488.0
+"Marquette, MI","Minneapolis, MN",300.0
+"La Crosse, WI","Minneapolis, MN",119.0
+"Detroit, MI","Fort Wayne, IN",128.0
+"Detroit, MI","La Crosse, WI",416.0
+"Los Angeles, CA","Sun Valley/Hailey/Ketchum, ID",696.0
+"Jackson, WY","Seattle, WA",621.0
+"Ogdensburg, NY","Washington, DC",409.0
+"Denver, CO","Jamestown, ND",573.0
+"Devils Lake, ND","Jamestown, ND",83.0
+"Chicago, IL","Staunton, VA",541.0
+"Hattiesburg/Laurel, MS","Houston, TX",372.0
+"Denver, CO","Pueblo, CO",109.0
+"Denver, CO","Laramie, WY",113.0
+"Denver, CO","Prescott, AZ",557.0
+"Denver, CO","Kearney, NE",305.0
+"Denver, CO","Moab, UT",283.0
+"Denver, CO","Pierre, SD",385.0
+"Denver, CO","Sheridan, WY",359.0
+"Plattsburgh, NY","Washington, DC",444.0
+"Denver, CO","North Platte, NE",228.0
+"Denver, CO","Watertown, SD",519.0
+"Chicago, IL","Johnstown, PA",487.0
+"Denver, CO","St. George, UT",517.0
+"Cape Girardeau, MO","Chicago, IL",340.0
+"Houston, TX","Meridian, MS",422.0
+"Denver, CO","Hays, KS",298.0
+"Clarksburg/Fairmont, WV","Washington, DC",151.0
+"Denver, CO","Rock Springs, WY",260.0
+"Chicago, IL","Joplin, MO",484.0
+"Johnstown, PA","Washington, DC",120.0
+"Cheyenne, WY","Denver, CO",90.0
+"Denver, CO","Liberal, KS",280.0
+"Houston, TX","Victoria, TX",123.0
+"Medford, OR","San Francisco, CA",329.0
+"Chicago, IL","South Bend, IN",84.0
+"Denver, CO","Eagle, CO",120.0
+"Arcata/Eureka, CA","Denver, CO",1026.0
+"San Francisco, CA","Tucson, AZ",751.0
+"Denver, CO","Medford, OR",964.0
+"Denver, CO","Syracuse, NY",1492.0
+"Denver, CO","San Luis Obispo, CA",931.0
+"Redding, CA","San Francisco, CA",199.0
+"Houston, TX","Mission/McAllen/Edinburg, TX",316.0
+"Denver, CO","Minot, ND",604.0
+"Bend/Redmond, OR","San Francisco, CA",462.0
+"Boise, ID","Houston, TX",1482.0
+"Baton Rouge, LA","Houston, TX",253.0
+"Amarillo, TX","Houston, TX",517.0
+"San Antonio, TX","San Francisco, CA",1482.0
+"Appleton, WI","Denver, CO",883.0
+"Fresno, CA","San Francisco, CA",158.0
+"Eugene, OR","San Francisco, CA",451.0
+"Bakersfield, CA","Denver, CO",845.0
+"Arcata/Eureka, CA","San Francisco, CA",250.0
+"Sacramento, CA","San Francisco, CA",86.0
+"Los Angeles, CA","Monterey, CA",266.0
+"Colorado Springs, CO","Los Angeles, CA",833.0
+"Denver, CO","Idaho Falls, ID",458.0
+"Arcata/Eureka, CA","Los Angeles, CA",577.0
+"Los Angeles, CA","San Luis Obispo, CA",156.0
+"Denver, CO","Lewiston, ID",768.0
+"Jackson, WY","San Francisco, CA",737.0
+"Denver, CO","Gunnison, CO",152.0
+"Denver, CO","Williston, ND",582.0
+"Denver, CO","Greer, SC",1278.0
+"Chattanooga, TN","Chicago, IL",501.0
+"Los Angeles, CA","Palm Springs, CA",110.0
+"Reno, NV","San Francisco, CA",192.0
+"Palm Springs, CA","San Francisco, CA",421.0
+"Houston, TX","Palm Springs, CA",1269.0
+"Fresno, CA","Los Angeles, CA",209.0
+"Bakersfield, CA","San Francisco, CA",238.0
+"Los Angeles, CA","Redding, CA",501.0
+"Denver, CO","Jackson, WY",406.0
+"San Francisco, CA","San Luis Obispo, CA",190.0
+"Albuquerque, NM","San Francisco, CA",896.0
+"Aspen, CO","Santa Ana, CA",722.0
+"Bozeman, MT","San Francisco, CA",807.0
+"Bishop, CA","San Francisco, CA",221.0
+"Aspen, CO","Denver, CO",125.0
+"Denver, CO","Pasco/Kennewick/Richland, WA",852.0
+"Denver, CO","Rapid City, SD",300.0
+"Los Angeles, CA","Santa Barbara, CA",89.0
+"Bend/Redmond, OR","Denver, CO",898.0
+"Monterey, CA","San Francisco, CA",77.0
+"Pasco/Kennewick/Richland, WA","San Francisco, CA",620.0
+"Hayden, CO","Los Angeles, CA",763.0
+"Denver, CO","Springfield, MO",637.0
+"Hobbs, NM","Houston, TX",501.0
+"Chicago, IL","Rapid City, SD",779.0
+"Hayden, CO","San Francisco, CA",838.0
+"Casper, WY","Denver, CO",230.0
+"Cleveland, OH","Houston, TX",1091.0
+"Denver, CO","Eugene, OR",996.0
+"Bishop, CA","Denver, CO",760.0
+"Denver, CO","Savannah, GA",1414.0
+"San Francisco, CA","Santa Barbara, CA",262.0
+"Montrose/Delta, CO","San Francisco, CA",791.0
+"Bishop, CA","Los Angeles, CA",237.0
+"Denver, CO","Monterey, CA",959.0
+"Aspen, CO","Houston, TX",913.0
+"Eagle, CO","San Francisco, CA",847.0
+"Denver, CO","Hobbs, NM",501.0
+"Chicago, IL","Roanoke, VA",531.0
+"Asheville, NC","Chicago, IL",521.0
+"Cody, WY","Denver, CO",391.0
+"San Francisco, CA","Santa Ana, CA",372.0
+"San Francisco, CA","Santa Rosa, CA",66.0
+"North Bend/Coos Bay, OR","San Francisco, CA",412.0
+"Denver, CO","Moline, IL",752.0
+"Denver, CO","Lubbock, TX",456.0
+"Bismarck/Mandan, ND","Denver, CO",516.0
+"Denver, CO","Huntsville, AL",1048.0
+"Aspen, CO","San Francisco, CA",848.0
+"Bozeman, MT","Houston, TX",1385.0
+"Houston, TX","Wichita, KS",542.0
+"Brownsville, TX","Houston, TX",308.0
+"Amarillo, TX","Denver, CO",359.0
+"Denver, CO","Great Falls, MT",623.0
+"Denver, CO","Sun Valley/Hailey/Ketchum, ID",557.0
+"San Francisco, CA","Sun Valley/Hailey/Ketchum, ID",587.0
+"Denver, CO","Helena, MT",594.0
+"Denver, CO","Salina, KS",383.0
+"Denver, CO","Dodge City, KS",292.0
+"Denver, CO","Riverton/Lander, WY",296.0
+"Chicago, IL","Clarksburg/Fairmont, WV",444.0
+"Chicago, IL","Lewisburg, WV",489.0
+"Chicago, IL","Fort Leonard Wood, MO",369.0
+"Chicago, IL","Sioux City, IA",436.0
+"Denver, CO","Scottsbluff, NE",150.0
+"Los Angeles, CA","Prescott, AZ",346.0
+"Chicago, IL","Hancock/Houghton, MI",360.0
+"Denver, CO","Joplin, MO",582.0
+"Chicago, IL","Eau Claire, WI",269.0
+"Alamosa, CO","Denver, CO",179.0
+"Chicago, IL","Kearney, NE",583.0
+"Chicago, IL","Muskegon, MI",119.0
+"Staunton, VA","Washington, DC",91.0
+"Chicago, IL","Decatur, IL",156.0
+"Chicago, IL","Salina, KS",559.0
+"Chicago, IL","Paducah, KY",342.0
+"Denver, CO","Gillette, WY",313.0
+"Denver, CO","Sioux City, IA",466.0
+"Denver, CO","Vernal, UT",259.0
+"Chicago, IL","Mason City, IA",288.0
+"Denver, CO","Devils Lake, ND",638.0
+"Chicago, IL","Fort Dodge, IA",325.0
+"Denver, CO","Fort Dodge, IA",576.0
+"Butte, MT","Denver, CO",578.0
+"Houston, TX","Lake Charles, LA",127.0
+"Chicago, IL","Saginaw/Bay City/Midland, MI",222.0
+"Denver, CO","Kalispell, MT",752.0
+"Denver, CO","Missoula, MT",679.0
+"San Diego, CA","Santa Rosa, CA",508.0
+"Austin, TX","Palm Springs, CA",1132.0
+"Los Angeles, CA","Santa Rosa, CA",400.0
+"San Diego, CA","San Luis Obispo, CA",263.0
+"Fresno, CA","San Diego, CA",314.0
+"Burbank, CA","Santa Rosa, CA",387.0
+"Santa Ana, CA","Santa Rosa, CA",433.0
+"Jackson, WY","San Diego, CA",828.0
+"Hayden, CO","San Diego, CA",769.0
+"Houston, TX","Killeen, TX",166.0
+"Chicago, IL","Sun Valley/Hailey/Ketchum, ID",1341.0
+"Houston, TX","Louisville, KY",803.0
+"Houston, TX","Lafayette, LA",201.0
+"Kalispell, MT","San Francisco, CA",844.0
+"Burlington, VT","Chicago, IL",763.0
+"Houston, TX","Raleigh/Durham, NC",1050.0
+"San Antonio, TX","Washington, DC",1362.0
+"Houston, TX","Portland, OR",1825.0
+"Houston, TX","San Francisco, CA",1635.0
+"Jackson, WY","Newark, NJ",1874.0
+"Denver, CO","Newark, NJ",1605.0
+"Newark, NJ","Sacramento, CA",2500.0
+"Raleigh/Durham, NC","San Francisco, CA",2400.0
+"San Diego, CA","Washington, DC",2253.0
+"Bozeman, MT","Newark, NJ",1882.0
+"Denver, CO","Lihue, HI",3414.0
+"Newark, NJ","Santa Ana, CA",2434.0
+"Eagle, CO","Newark, NJ",1725.0
+"Charlotte Amalie, VI","Houston, TX",2070.0
+"Nashville, TN","San Francisco, CA",1969.0
+"Indianapolis, IN","San Francisco, CA",1943.0
+"Newark, NJ","San Antonio, TX",1569.0
+"Anchorage, AK","Denver, CO",2405.0
+"Denver, CO","Kona, HI",3329.0
+"Lihue, HI","San Francisco, CA",2447.0
+"Denver, CO","Kahului, HI",3302.0
+"Kona, HI","San Francisco, CA",2367.0
+"Cleveland, OH","San Francisco, CA",2161.0
+"Charlotte Amalie, VI","Washington, DC",1606.0
+"Eagle, CO","Houston, TX",934.0
+"Billings, MT","Denver, CO",455.0
+"Honolulu, HI","Santa Ana, CA",2584.0
+"Denver, CO","Honolulu, HI",3365.0
+"Honolulu, HI","Newark, NJ",4962.0
+"Chicago, IL","Kahului, HI",4184.0
+"Honolulu, HI","Houston, TX",3904.0
+"Chicago, IL","Honolulu, HI",4243.0
+"Guam, TT","Honolulu, HI",3801.0
+"Guam, TT","Saipan, TT",129.0
+"Montrose/Delta, CO","Newark, NJ",1795.0
+"Houston, TX","Jackson, WY",1265.0
+"Houston, TX","West Palm Beach/Palm Beach, FL",956.0
+"Fort Myers, FL","San Francisco, CA",2481.0
+"Baton Rouge, LA","Washington, DC",985.0
+"Hayden, CO","Washington, DC",1582.0
+"Hilo, HI","Los Angeles, CA",2449.0
+"Honolulu, HI","Washington, DC",4817.0
+"Chicago, IL","Kona, HI",4213.0
+"Hayden, CO","Newark, NJ",1728.0
+"Kahului, HI","Newark, NJ",4904.0
+"Houston, TX","Norfolk, VA",1201.0
+"Sacramento, CA","Washington, DC",2358.0
+"Chicago, IL","Spokane, WA",1498.0
+"Baltimore, MD","San Francisco, CA",2457.0
+"Gulfport/Biloxi, MS","Houston, TX",376.0
+"Houston, TX","Little Rock, AR",374.0
+"Houston, TX","Laredo, TX",301.0
+"Houston, TX","Shreveport, LA",192.0
+"Denver, CO","Dickinson, ND",488.0
+"Houston, TX","Springfield, MO",535.0
+"Denver, CO","Lincoln, NE",423.0
+"Houston, TX","Huntsville, AL",595.0
+"Denver, CO","Shreveport, LA",792.0
+"Houston, TX","Mobile, AL",427.0
+"Alexandria, LA","Houston, TX",190.0
+"Newark, NJ","Presque Isle/Houlton, ME",515.0
+"Richmond, VA","Washington, DC",100.0
+"Hilton Head, SC","Washington, DC",501.0
+"Roanoke, VA","Washington, DC",177.0
+"Denver, CO","Santa Fe, NM",303.0
+"Denver, CO","Flagstaff, AZ",503.0
+"Charlottesville, VA","Washington, DC",77.0
+"Houston, TX","Valparaiso, FL",528.0
+"Chicago, IL","Lincoln, NE",466.0
+"Ithaca/Cortland, NY","Washington, DC",250.0
+"State College, PA","Washington, DC",133.0
+"Akron, OH","Chicago, IL",343.0
+"Charlottesville, VA","Chicago, IL",566.0
+"Chicago, IL","Erie, PA",398.0
+"Chicago, IL","State College, PA",528.0
+"Myrtle Beach, SC","Washington, DC",372.0
+"Chicago, IL","Springfield, IL",174.0
+"Charleston/Dunbar, WV","Chicago, IL",416.0
+"Asheville, NC","Washington, DC",384.0
+"Chicago, IL","Pensacola, FL",781.0
+"Chicago, IL","Columbia, SC",666.0
+"Scranton/Wilkes-Barre, PA","Washington, DC",189.0
+"Harrisburg, PA","Washington, DC",94.0
+"Allentown/Bethlehem/Easton, PA","Washington, DC",159.0
+"Erie, PA","Washington, DC",259.0
+"Houston, TX","Monroe, LA",262.0
+"College Station/Bryan, TX","Houston, TX",74.0
+"Houston, TX","Key West, FL",915.0
+"Houston, TX","Richmond, VA",1157.0
+"Cedar Rapids/Iowa City, IA","Dallas/Fort Worth, TX",685.0
+"Hartford, CT","Houston, TX",1507.0
+"Grand Rapids, MI","Houston, TX",1042.0
+"Gunnison, CO","Houston, TX",886.0
+"Bloomington/Normal, IL","Dallas/Fort Worth, TX",690.0
+"Monterey, CA","Phoenix, AZ",598.0
+"Dallas/Fort Worth, TX","Peoria, IL",672.0
+"Dallas/Fort Worth, TX","Louisville, KY",733.0
+"Dallas/Fort Worth, TX","Rapid City, SD",835.0
+"Dallas/Fort Worth, TX","Panama City, FL",685.0
+"Dallas/Fort Worth, TX","Sioux Falls, SD",737.0
+"Lubbock, TX","Phoenix, AZ",588.0
+"Dallas/Fort Worth, TX","Moline, IL",691.0
+"Midland/Odessa, TX","Phoenix, AZ",581.0
+"Phoenix, AZ","Santa Rosa, CA",699.0
+"Dallas/Fort Worth, TX","Fayetteville, NC",1051.0
+"Bakersfield, CA","Dallas/Fort Worth, TX",1271.0
+"Dallas/Fort Worth, TX","Long Beach, CA",1221.0
+"Dallas/Fort Worth, TX","Daytona Beach, FL",981.0
+"Denver, CO","Valparaiso, FL",1210.0
+"Bloomington/Normal, IL","Detroit, MI",313.0
+"Montrose/Delta, CO","New York, NY",1810.0
+"Daytona Beach, FL","Detroit, MI",908.0
+"Fort Lauderdale, FL","Newburgh/Poughkeepsie, NY",1118.0
+"Fort Lauderdale, FL","Trenton, NJ",1026.0
+"Fort Lauderdale, FL","Rochester, NY",1183.0
+"Bloomington/Normal, IL","Tampa, FL",935.0
+"Fort Lauderdale, FL","Green Bay, WI",1345.0
+"Fort Lauderdale, FL","Portland, ME",1332.0
+"New Orleans, LA","Raleigh/Durham, NC",779.0
+"Plattsburgh, NY","Punta Gorda, FL",1311.0
+"Houston, TX","Punta Gorda, FL",831.0
+"Louisville, KY","New Orleans, LA",620.0
+"Des Moines, IA","San Diego, CA",1428.0
+"Dayton, OH","Sanford, FL",785.0
+"Portsmouth, NH","St. Petersburg, FL",1239.0
+"Punta Gorda, FL","West Palm Beach/Palm Beach, FL",118.0
+"Key West, FL","Pittsburgh, PA",1102.0
+"Grand Rapids, MI","Jacksonville, FL",880.0
+"Knoxville, TN","Phoenix, AZ",1599.0
+"Concord, NC","New Orleans, LA",669.0
+"Indianapolis, IN","New Orleans, LA",707.0
+"Hartford, CT","Myrtle Beach, SC",664.0
+"Latrobe, PA","Myrtle Beach, SC",455.0
+"Cleveland, OH","Myrtle Beach, SC",557.0
+"Columbus, OH","New Orleans, LA",806.0
+"Cleveland, OH","New Orleans, LA",917.0
+"New Orleans, LA","San Francisco, CA",1911.0
+"Houston, TX","Texarkana, AR",252.0
+"Newark, NJ","Wilmington, NC",488.0
+"Detroit, MI","Savannah, GA",705.0
+"Nashville, TN","Sioux Falls, SD",741.0
+"Akron, OH","Savannah, GA",606.0
+"Knoxville, TN","Valparaiso, FL",395.0
+"Louisville, KY","Savannah, GA",489.0
+"Columbus, OH","Valparaiso, FL",675.0
+"Columbus, OH","Savannah, GA",539.0
+"Pittsburgh, PA","Savannah, GA",579.0
+"Valparaiso, FL","Wichita, KS",796.0
+"Flint, MI","Jacksonville, FL",867.0
+"Clarksburg/Fairmont, WV","St. Petersburg, FL",798.0
+"Flint, MI","Nashville, TN",497.0
+"Belleville, IL","Jacksonville, FL",723.0
+"Knoxville, TN","West Palm Beach/Palm Beach, FL",670.0
+"Appleton, WI","Fort Lauderdale, FL",1338.0
+"Austin, TX","Knoxville, TN",882.0
+"Phoenix, AZ","Toledo, OH",1625.0
+"Appleton, WI","Sarasota/Bradenton, FL",1209.0
+"Akron, OH","Punta Gorda, FL",965.0
+"St. Petersburg, FL","State College, PA",933.0
+"Akron, OH","Sarasota/Bradenton, FL",934.0
+"Kansas City, MO","Valparaiso, FL",764.0
+"Fayetteville, AR","Nashville, TN",426.0
+"Akron, OH","St. Petersburg, FL",899.0
+"Asheville, NC","Denver, CO",1248.0
+"Boston, MA","Flint, MI",650.0
+"Knoxville, TN","Minneapolis, MN",792.0
+"Louisville, KY","Valparaiso, FL",532.0
+"Indianapolis, IN","Valparaiso, FL",637.0
+"Dallas/Fort Worth, TX","Santa Rosa, CA",1495.0
+"Daytona Beach, FL","Washington, DC",705.0
+"Asheville, NC","New York, NY",599.0
+"Jackson, WY","Phoenix, AZ",705.0
+"Dallas/Fort Worth, TX","St. George, UT",976.0
+"Moab, UT","Salt Lake City, UT",183.0
+"Bend/Redmond, OR","San Diego, CA",823.0
+"Lewisburg, WV","Staunton, VA",87.0
+"Pittsburgh, PA","San Francisco, CA",2254.0
+"Chicago, IL","Reno, NV",1671.0
+"Harrisburg, PA","Newark, NJ",141.0
+"Newark, NJ","Scranton/Wilkes-Barre, PA",93.0
+"Newark, NJ","State College, PA",193.0
+"Ithaca/Cortland, NY","Newark, NJ",172.0
+"Newark, NJ","Philadelphia, PA",80.0
+"Chicago, IL","Panama City, FL",795.0
+"Austin, TX","Ontario, CA",1196.0
+"Austin, TX","Charleston, SC",1055.0
+"Austin, TX","Midland/Odessa, TX",294.0
+"Austin, TX","Panama City, FL",710.0
+"Austin, TX","Valparaiso, FL",666.0
+"Baltimore, MD","Panama City, FL",798.0
+"Indianapolis, IN","Panama City, FL",646.0
+"Kansas City, MO","Panama City, FL",797.0
+"Myrtle Beach, SC","St. Louis, MO",728.0
+"St. Louis, MO","Valparaiso, FL",610.0
+"Dallas/Fort Worth, TX","Melbourne, FL",1031.0
+"New York, NY","Valparaiso, FL",1003.0
+"Bangor, ME","Newark, NJ",393.0
+"Hilton Head, SC","Newark, NJ",687.0
+"Oklahoma City, OK","San Antonio, TX",407.0
+"Dallas, TX","Myrtle Beach, SC",1038.0
+"Dallas, TX","Norfolk, VA",1203.0
+"Kansas City, MO","Pensacola, FL",743.0
+"Augusta, GA","New York, NY",678.0
+"Chicago, IL","Hilton Head, SC",781.0
+"Augusta, GA","Boston, MA",861.0
+"Minneapolis, MN","Savannah, GA",1092.0
+"Minneapolis, MN","Myrtle Beach, SC",1085.0
+"Charleston, SC","Minneapolis, MN",1087.0
+"Jacksonville, FL","Minneapolis, MN",1174.0
+"Bloomington/Normal, IL","Denver, CO",834.0
+"Hartford, CT","Raleigh/Durham, NC",532.0
+"Portland, ME","Raleigh/Durham, NC",700.0
+"Islip, NY","Myrtle Beach, SC",586.0
+"Albany, NY","Denver, CO",1610.0
+"Cleveland, OH","Raleigh/Durham, NC",416.0
+"Providence, RI","Raleigh/Durham, NC",566.0
+"Denver, CO","Green Bay, WI",905.0
+"Raleigh/Durham, NC","Syracuse, NY",519.0
+"Islip, NY","Raleigh/Durham, NC",459.0
+"Denver, CO","Providence, RI",1737.0
+"Denver, CO","Harrisburg, PA",1474.0
+"Burlington, VT","Denver, CO",1639.0
+"Albany, NY","Raleigh/Durham, NC",544.0
+"Chicago, IL","Trenton, NJ",683.0
+"Buffalo, NY","Raleigh/Durham, NC",487.0
+"Denver, CO","Myrtle Beach, SC",1485.0
+"Grand Rapids, MI","Portland, OR",1833.0
+"Appleton, WI","Savannah, GA",926.0
+"Grand Rapids, MI","Savannah, GA",778.0
+"Flint, MI","Savannah, GA",760.0
+"Pittsburgh, PA","Valparaiso, FL",775.0
+"Cincinnati, OH","Myrtle Beach, SC",489.0
+"Columbus, OH","Myrtle Beach, SC",488.0
+"Albany, NY","Nashville, TN",825.0
+"Des Moines, IA","Santa Ana, CA",1429.0
+"Springfield, MO","Valparaiso, FL",610.0
+"Nashville, TN","Roanoke, VA",381.0
+"Allentown/Bethlehem/Easton, PA","Myrtle Beach, SC",518.0
+"Norfolk, VA","Punta Gorda, FL",767.0
+"Des Moines, IA","Portland, OR",1471.0
+"Belleville, IL","Savannah, GA",658.0
+"Asheville, NC","Valparaiso, FL",412.0
+"Myrtle Beach, SC","Pittsburgh, PA",475.0
+"Fayetteville, AR","Valparaiso, FL",601.0
+"Charleston, SC","Louisville, KY",485.0
+"Charleston, SC","Columbus, OH",503.0
+"Oklahoma City, OK","Valparaiso, FL",726.0
+"Nashville, TN","Providence, RI",906.0
+"Belleville, IL","Charleston, SC",674.0
+"Harrisburg, PA","Myrtle Beach, SC",465.0
+"Boston, MA","Wilmington, NC",672.0
+"Augusta, GA","Austin, TX",949.0
+"Augusta, GA","Miami, FL",531.0
+"Augusta, GA","Chicago, IL",677.0
+"Atlanta, GA","Atlantic City, NJ",679.0
+"Akron, OH","Myrtle Beach, SC",518.0
+"Aguadilla, PR","Philadelphia, PA",1550.0
+"Myrtle Beach, SC","Niagara Falls, NY",650.0
+"Manchester, NH","Myrtle Beach, SC",756.0
+"Augusta, GA","Philadelphia, PA",583.0
+"Hays, KS","Salina, KS",88.0
+"North Platte, NE","Scottsbluff, NE",160.0
+"Clarksburg/Fairmont, WV","Johnstown, PA",102.0
+"Dodge City, KS","Liberal, KS",74.0
+"Hattiesburg/Laurel, MS","Meridian, MS",69.0
+"Cape Girardeau, MO","Paducah, KY",45.0
+"Decatur, IL","Fort Leonard Wood, MO",228.0
+"Fort Dodge, IA","Mason City, IA",61.0
+"Newark, NJ","Omaha, NE",1134.0
+"Omaha, NE","San Francisco, CA",1433.0
+"Salt Lake City, UT","West Yellowstone, MT",273.0
+"Denver, CO","North Bend/Coos Bay, OR",1040.0
+"Ogdensburg, NY","Plattsburgh, NY",98.0
+"Chicago, IL","Ogdensburg, NY",654.0
+"Boise, ID","Burbank, CA",656.0
+"Everett, WA","San Francisco, CA",710.0
+"Louisville, KY","San Francisco, CA",1990.0
+"Nantucket, MA","Newark, NJ",218.0
+"Nantucket, MA","New York, NY",199.0
+"Anchorage, AK","Dallas/Fort Worth, TX",3043.0
+"Dallas/Fort Worth, TX","Kalispell, MT",1390.0
+"Ithaca/Cortland, NY","Philadelphia, PA",192.0
+"Seattle, WA","Sitka, AK",861.0
+"Gustavus, AK","Juneau, AK",41.0
+"Anchorage, AK","San Francisco, CA",2018.0
+"Boston, MA","San Jose, CA",2689.0
+"Boston, MA","Sacramento, CA",2636.0
+"Hyannis, MA","New York, NY",196.0
+"Boston, MA","Nantucket, MA",91.0
+"Boston, MA","Martha's Vineyard, MA",70.0
+"Martha's Vineyard, MA","New York, NY",175.0
+"Nantucket, MA","White Plains, NY",191.0
+"Nantucket, MA","Washington, DC",423.0
+"Martha's Vineyard, MA","Washington, DC",383.0
+"Fairbanks, AK","Minneapolis, MN",2466.0
+"Boston, MA","Louisville, KY",829.0
+"Branson, MO","Denver, CO",665.0
+"Newburgh/Poughkeepsie, NY","Raleigh/Durham, NC",463.0
+"Indianapolis, IN","Raleigh/Durham, NC",489.0
+"Atlanta, GA","Newburgh/Poughkeepsie, NY",783.0
+"Cincinnati, OH","Raleigh/Durham, NC",390.0
+"Denver, CO","Rochester, NY",1413.0
+"Gulfport/Biloxi, MS","Sanford, FL",485.0
+"San Diego, CA","Sioux Falls, SD",1336.0
+"Idaho Falls, ID","Santa Ana, CA",747.0
+"Los Angeles, CA","Missoula, MT",923.0
+"Eugene, OR","San Diego, CA",850.0
+"Medford, OR","San Diego, CA",734.0
+"Las Vegas, NV","Sanford, FL",2034.0
+"Charleston, SC","Indianapolis, IN",585.0
+"Hagerstown, MD","Myrtle Beach, SC",421.0
+"Memphis, TN","Valparaiso, FL",373.0
+"Harrisburg, PA","Nashville, TN",608.0
+"Ashland, WV","Myrtle Beach, SC",382.0
+"Des Moines, IA","Newark, NJ",1017.0
+"Jacksonville, FL","Norfolk, VA",542.0
+"Bellingham, WA","San Diego, CA",1142.0
+"Pasco/Kennewick/Richland, WA","San Diego, CA",939.0
+"Bloomington/Normal, IL","Valparaiso, FL",702.0
+"Fort Wayne, IN","Myrtle Beach, SC",610.0
+"Columbus, OH","Norfolk, VA",417.0
+"Omaha, NE","Valparaiso, FL",911.0
+"Albany, NY","Myrtle Beach, SC",685.0
+"Idaho Falls, ID","Oakland, CA",666.0
+"Chattanooga, TN","Miami, FL",701.0
+"Chicago, IL","Wilmington, NC",760.0
+"Dallas/Fort Worth, TX","Hilton Head, SC",954.0
+"Columbia, SC","Miami, FL",563.0
+"Kansas City, MO","Myrtle Beach, SC",959.0
+"Detroit, MI","Oakland, CA",2068.0
+"Atlantic City, NJ","Boston, MA",274.0
+"Oakland, CA","Philadelphia, PA",2511.0
+"Louisville, KY","Myrtle Beach, SC",491.0
+"Milwaukee, WI","Myrtle Beach, SC",803.0
+"Indianapolis, IN","Myrtle Beach, SC",583.0
+"Charleston/Dunbar, WV","Myrtle Beach, SC",356.0
+"Huntsville, AL","Miami, FL",722.0
+"Charlotte, NC","Traverse City, MI",702.0
+"Minneapolis, MN","Traverse City, MI",376.0
+"Rapid City, SD","Salt Lake City, UT",508.0
+"Chicago, IL","Missoula, MT",1332.0
+"Denver, CO","Traverse City, MI",1032.0
+"Kalispell, MT","Los Angeles, CA",1014.0
+"Missoula, MT","San Francisco, CA",769.0
+"Bangor, ME","Chicago, IL",978.0
+"Denver, CO","West Yellowstone, MT",469.0
+"Kalispell, MT","San Diego, CA",1086.0
+"Chicago, IL","Great Falls, MT",1211.0
+"Boise, ID","Idaho Falls, ID",209.0
+"Bozeman, MT","Portland, OR",554.0
+"Missoula, MT","Portland, OR",418.0
+"Missoula, MT","San Diego, CA",992.0
+"Denver, CO","Portland, ME",1782.0
+"Chicago, IL","Fresno, CA",1730.0
+"Anchorage, AK","Newark, NJ",3370.0
+"Columbus, OH","San Francisco, CA",2120.0
+"Anchorage, AK","Houston, TX",3266.0
+"Chicago, IL","Eugene, OR",1780.0
+"Chicago, IL","Santa Barbara, CA",1803.0
+"Chicago, IL","Fairbanks, AK",2785.0
+"Traverse City, MI","Washington, DC",599.0
+"Burlington, VT","Minneapolis, MN",987.0
+"Minneapolis, MN","Providence, RI",1117.0
+"Minneapolis, MN","Portland, ME",1136.0
+"Buffalo, NY","Minneapolis, MN",735.0
+"Philadelphia, PA","San Antonio, TX",1496.0
+"Los Angeles, CA","Mission/McAllen/Edinburg, TX",1318.0
+"Lexington, KY","Myrtle Beach, SC",438.0
+"Grand Junction, CO","Los Angeles, CA",655.0
+"Myrtle Beach, SC","Newburgh/Poughkeepsie, NY",601.0
+"Ashland, WV","Valparaiso, FL",589.0
+"Cincinnati, OH","Norfolk, VA",485.0
+"Clarksburg/Fairmont, WV","Myrtle Beach, SC",394.0
+"Clarksburg/Fairmont, WV","Valparaiso, FL",705.0
+"Myrtle Beach, SC","Syracuse, NY",668.0
+"Shreveport, LA","Valparaiso, FL",452.0
+"Little Rock, AR","Los Angeles, CA",1494.0
+"Idaho Falls, ID","San Diego, CA",794.0
+"Ashland, WV","Punta Gorda, FL",790.0
+"Tulsa, OK","Valparaiso, FL",669.0
+"Belleville, IL","Myrtle Beach, SC",696.0
+"Baltimore, MD","Knoxville, TN",465.0
+"Kalispell, MT","Oakland, CA",834.0
+"Cincinnati, OH","Providence, RI",722.0
+"Cedar Rapids/Iowa City, IA","Los Angeles, CA",1550.0
+"Allentown/Bethlehem/Easton, PA","Savannah, GA",669.0
+"Evansville, IN","Valparaiso, FL",524.0
+"Little Rock, AR","Valparaiso, FL",443.0
+"Knoxville, TN","Myrtle Beach, SC",323.0
+"Newburgh/Poughkeepsie, NY","Savannah, GA",756.0
+"St. Petersburg, FL","Tulsa, OK",961.0
+"Los Angeles, CA","Wichita, KS",1203.0
+"Sanford, FL","Shreveport, LA",791.0
+"Austin, TX","Bozeman, MT",1299.0
+"Myrtle Beach, SC","Portsmouth, NH",783.0
+"Des Moines, IA","Valparaiso, FL",860.0
+"Los Angeles, CA","Pasco/Kennewick/Richland, WA",851.0
+"Missoula, MT","Oakland, CA",758.0
+"Lexington, KY","Valparaiso, FL",532.0
+"Fargo, ND","Los Angeles, CA",1440.0
+"Nashville, TN","Portsmouth, NH",970.0
+"Peoria, IL","Valparaiso, FL",724.0
+"Grand Rapids, MI","South Bend, IN",91.0
+"Boston, MA","Pensacola, FL",1215.0
+"Asheville, NC","Miami, FL",677.0
+"Burlington, VT","Dallas/Fort Worth, TX",1510.0
+"Billings, MT","Chicago, IL",1061.0
+"Dallas/Fort Worth, TX","Traverse City, MI",1022.0
+"Houston, TX","Myrtle Beach, SC",997.0
+"Philadelphia, PA","Valparaiso, FL",908.0
+"New Bern/Morehead/Beaufort, NC","Washington, DC",261.0
+"El Paso, TX","San Diego, CA",636.0
+"Sacramento, CA","Santa Barbara, CA",310.0
+"Eugene, OR","San Jose, CA",471.0
+"Nashville, TN","Portland, ME",1010.0
+"Charleston, SC","Kansas City, MO",930.0
+"Charleston, SC","St. Louis, MO",706.0
+"Houston, TX","Rapid City, SD",1058.0
+"Houston, TX","Kalispell, MT",1613.0
+"Bozeman, MT","Washington, DC",1773.0
+"New York, NY","Traverse City, MI",655.0
+"Boston, MA","Hilton Head, SC",878.0
+"Hilton Head, SC","New York, NY",701.0
+"Charlotte, NC","Martha's Vineyard, MA",704.0
+"Boston, MA","Memphis, TN",1139.0
+"Philadelphia, PA","Traverse City, MI",627.0
+"Chicago, IL","Martha's Vineyard, MA",894.0
+"Boston, MA","Traverse City, MI",749.0
+"Miami, FL","Providence, RI",1209.0
+"Chicago, IL","Nantucket, MA",924.0
+"Charlotte, NC","Nantucket, MA",723.0
+"Martha's Vineyard, MA","Philadelphia, PA",265.0
+"New York, NY","Rapid City, SD",1502.0
+"Nantucket, MA","Philadelphia, PA",289.0
+"Hilton Head, SC","Philadelphia, PA",609.0
+"Newark, NJ","Traverse City, MI",644.0
+"Newark, NJ","Rapid City, SD",1489.0
+"Kalispell, MT","New York, NY",2035.0
+"Charlotte, NC","Ontario, CA",2078.0
+"Charlotte, NC","Rapid City, SD",1322.0
+"Dallas/Fort Worth, TX","Portland, ME",1622.0
+"Cleveland, OH","Seattle, WA",2021.0
+"Laramie, WY","Scottsbluff, NE",115.0
+"Chicago, IL","Hays, KS",637.0
+"Cape Girardeau, MO","Decatur, IL",184.0
+"Billings, MT","Portland, OR",679.0
+"Kalispell, MT","Portland, OR",437.0
+"Atlanta, GA","Traverse City, MI",769.0
+"Bozeman, MT","Detroit, MI",1400.0
+"Albuquerque, NM","Minneapolis, MN",981.0
+"Hartford, CT","New York, NY",101.0
+"Boston, MA","Madison, WI",932.0
+"Newark, NJ","Reno, NV",2390.0
+"Madison, WI","San Francisco, CA",1772.0
+"Detroit, MI","Santa Ana, CA",1960.0
+"Cincinnati, OH","Cleveland, OH",221.0
+"Las Vegas, NV","Provo, UT",341.0
+"Provo, UT","San Diego, CA",599.0
+"Sanford, FL","Sarasota/Bradenton, FL",125.0
+"Austin, TX","Madison, WI",1004.0
+"Newark, NJ","Oakland, CA",2555.0
+"Montgomery, AL","Philadelphia, PA",813.0
+"Escanaba, MI","Pellston, MI",112.0
+"Bemidji, MN","Brainerd, MN",85.0
+"Alpena, MI","Sault Ste. Marie, MI",92.0
+"Iron Mountain/Kingsfd, MI","Rhinelander, WI",67.0
+"Hibbing, MN","International Falls, MN",86.0
+"Kansas City, MO","San Francisco, CA",1499.0
+"Raleigh/Durham, NC","South Bend, IN",571.0
+"Columbus, OH","South Bend, IN",215.0
+"Birmingham, AL","Fayetteville, AR",468.0
+"Eugene, OR","Spokane, WA",365.0
+"Austin, TX","Birmingham, AL",682.0
+"Columbia, SC","Fayetteville, AR",764.0
+"Lincoln, NE","Oklahoma City, OK",379.0
+"Madison, WI","Spokane, WA",1398.0
+"Columbus, OH","Madison, WI",398.0
+"Houston, TX","Lincoln, NE",753.0
+"New York, NY","South Bend, IN",651.0
+"Minneapolis, MN","Reno, NV",1405.0
+"Portland, OR","Provo, UT",664.0
+"Los Angeles, CA","Provo, UT",569.0
+"Billings, MT","Bullhead City, AZ",800.0
+"Jackson/Vicksburg, MS","Miami, FL",742.0
+"Newark, NJ","South Bend, IN",637.0
+"Atlanta, GA","Oakland, CA",2130.0
+"Green Bay, WI","Newark, NJ",757.0
+"San Francisco, CA","South Bend, IN",1929.0
+"Boston, MA","Green Bay, WI",872.0
+"Cedar Rapids/Iowa City, IA","Columbus, OH",479.0
+"Columbus, OH","State College, PA",272.0
+"Charlotte, NC","San Jose, CA",2274.0
+"Akron, OH","Sanford, FL",837.0
+"Baton Rouge, LA","Gainesville, FL",535.0
+"Boston, MA","White Plains, NY",166.0
+"Boston, MA","Greer, SC",795.0
+"Baton Rouge, LA","Knoxville, TN",551.0
+"Decatur, IL","Paducah, KY",191.0
+"Eugene, OR","Tucson, AZ",1062.0
+"Greer, SC","South Bend, IN",520.0
+"Baton Rouge, LA","Fayetteville, AR",436.0
+"Denver, CO","Lexington, KY",1086.0
+"Anchorage, AK","Everett, WA",1425.0
+"Los Angeles, CA","South Bend, IN",1823.0
+"Dallas/Fort Worth, TX","Green Bay, WI",932.0
+"Detroit, MI","Lincoln, NE",701.0
+"Houston, TX","South Bend, IN",953.0
+"Denver, CO","South Bend, IN",969.0
+"Boston, MA","South Bend, IN",788.0
+"Baton Rouge, LA","Birmingham, AL",332.0
+"Atlanta, GA","Kahului, HI",4431.0
+"Detroit, MI","Honolulu, HI",4475.0
+"Denver, CO","West Palm Beach/Palm Beach, FL",1679.0
+"Akron, OH","Fort Lauderdale, FL",1026.0
+"Grand Rapids, MI","Indianapolis, IN",222.0
+"College Station/Bryan, TX","Gainesville, FL",845.0
+"Fort Lauderdale, FL","Pensacola, FL",525.0
+"Long Beach, CA","Nashville, TN",1785.0
+"Hartford, CT","St. Louis, MO",957.0
+"Dallas, TX","Detroit, MI",981.0
+"Kansas City, MO","Raleigh/Durham, NC",904.0
+"Colorado Springs, CO","San Diego, CA",816.0
+"Lexington, KY","New York, NY",604.0
+"New York, NY","Tulsa, OK",1231.0
+"Little Rock, AR","New York, NY",1085.0
+"New Orleans, LA","Wichita, KS",669.0
+"Cincinnati, OH","Kansas City, MO",539.0
+"Jackson, WY","Miami, FL",2105.0
+"Detroit, MI","San Juan, PR",1930.0
+"Knoxville, TN","Nashville, TN",152.0
+"St. Petersburg, FL","Valparaiso, FL",292.0
+"Provo, UT","Sanford, FL",1898.0
+"Asheville, NC","Cincinnati, OH",275.0
+"Austin, TX","Eagle, CO",836.0
+"North Platte, NE","Sioux City, IA",239.0
+"Decatur, IL","Joplin, MO",357.0
+"Escanaba, MI","Iron Mountain/Kingsfd, MI",50.0
+"Alpena, MI","Pellston, MI",69.0
+"Hayden, CO","Nashville, TN",1153.0
